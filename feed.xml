@@ -7,167 +7,171 @@
 <title>Evo Web News - SP (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
-<description>Cobertura de São Paulo com hard news e utilidade pública (últimas 24h).</description>
-<lastBuildDate>Fri, 13 Feb 2026 11:13:34 GMT</lastBuildDate>
+<description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
+<lastBuildDate>Fri, 13 Feb 2026 11:28:27 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Estudo revela que bonobos também conseguem imaginar objetos inexistentes]]></title>
-<link>https://evwbr.github.io/sp/p/sp_0310f25b7c15220d352c7e7793d1d1d935b0dc65/</link>
+<title><![CDATA[Previsão de 1,4 milhão de veículos nas rodovias do litoral de SP durante Carnaval 2026]]></title>
+<link>https://evwbr.github.io/sp/p/sp_18576b68a60454881d7373bb4ce9feee06698556/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 11:02:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 19:20:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:0310f25b7c15220d352c7e7793d1d1d935b0dc65]]></guid>
-<description><![CDATA[Pesquisa com o bonobo Kanzi indica que a capacidade de imaginar pode não ser exclusiva dos seres humanos, sugerindo origens evolutivas mais antigas.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:18576b68a60454881d7373bb4ce9feee06698556]]></guid>
+<description><![CDATA[A concessionária Novo Litoral prevê fluxo intenso nas estradas da Baixada Santista entre 13 e 18 de fevereiro, com operação especial para garantir a fluidez e segurança no feriado prolongado.]]></description>
 <content:encoded><![CDATA[
-<p>Pesquisa com o bonobo Kanzi indica que a capacidade de imaginar pode não ser exclusiva dos seres humanos, sugerindo origens evolutivas mais antigas. Pesquisadores realizaram um experimento com Kanzi, um bonobo conhecido por suas habilidades cognitivas, para investigar a capacidade de imaginar situações não presentes na realidade. No teste, Kanzi foi inicialmente treinado para identificar qual dos dois copos continha suco, recebendo recompensa ao acertar.</p>
-<p>Em seguida, foram apresentados dois copos vazios, e os cientistas simularam o ato de despejar suco em um deles. Mesmo sem líquido real, Kanzi apontou para o copo 'cheio' em 34 das 50 tentativas, desempenho superior ao esperado por acaso, sem receber recompensa, o que descartou a hipótese de resposta condicionada.</p>
-<p>Em outro teste, o bonobo também conseguiu identificar a posição de uma uva que não estava fisicamente presente, apenas sugerida. Esses resultados indicam que a capacidade de imaginar objetos e situações inexistentes pode ter origem anterior ao surgimento dos humanos modernos.</p>
-<p>A pesquisa sugere que essa habilidade pode ter estado presente no ancestral comum entre humanos e bonobos, que divergiram evolutivamente entre 6 e 9 milhões de anos atrás, ampliando o entendimento sobre as origens cognitivas da espécie humana.</p>
-<p>Embora a imaginação dos bonobos não seja afirmada como idêntica à humana, o estudo amplia o debate sobre a evolução das capacidades cognitivas compartilhadas entre as espécies.</p>
+<p>A concessionária Novo Litoral prevê fluxo intenso nas estradas da Baixada Santista entre 13 e 18 de fevereiro, com operação especial para garantir a fluidez e segurança no feriado prolongado.</p>
+<p>Mais de 1,4 milhão de veículos devem circular pelas rodovias da região durante o feriado prolongado de Carnaval de 2026. O maior volume de tráfego está previsto para o trecho Sul da SP-055, em Praia Grande, com mais de 481 mil veículos. A rodovia Mogi-Bertioga (SP-098) deve receber cerca de 106 mil veículos, enquanto o trecho Norte da SP-055, na altura de Santos, poderá ultrapassar 120 mil veículos.</p>
+<p>Para atender ao aumento da demanda, a concessionária Novo Litoral realizará uma operação especial em conjunto com a Agência de Transporte do Estado de São Paulo. O Centro de Controle Operacional funcionará 24 horas por dia, com apoio do Policiamento Rodoviário. Haverá reforço no número de guinchos, equipes de inspeção de tráfego e apoio à sinalização emergencial, além de oito bases de atendimento ao usuário com suporte emergencial, banheiros e água.</p>
+<p>A operação poderá incluir faixas reversíveis no sentido do litoral entre 6h e 16h, conforme o fluxo de veículos. Viaturas operacionais estarão posicionadas em pontos críticos para monitorar o trânsito e atuar em situações de final de fila, além de liberar acostamentos quando necessário. Obras de rotina nas rodovias serão suspensas durante o feriado, e o tráfego de cargas especiais ficará restrito durante todo o Carnaval.</p>
+<p>Campanhas educativas sobre segurança viária serão reforçadas, abordando o uso do cinto de segurança, manutenção preventiva dos veículos e os riscos de dirigir sob efeito de álcool ou drogas. Em emergências, os motoristas poderão acionar os serviços por meio dos totens instalados ao longo das rodovias ou pelos canais oficiais da concessionária.</p>
+<p>As medidas visam garantir a segurança e a fluidez do tráfego nas rodovias do litoral paulista durante o período de maior movimento no Carnaval de 2026.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Praia Grande reduz em 99% fila por vagas em creches municipais]]></title>
-<link>https://evwbr.github.io/sp/p/sp_afbcdac2033e0e058af466e090375e3e354deb79/</link>
+<title><![CDATA[Secretário de Governo mata os dois filhos e se suicida em Itumbiara]]></title>
+<link>https://evwbr.github.io/sp/p/sp_eb6c5759fcde6b9fb6d4eddbd9021116aeef3d9b/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 03:31:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 18:28:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:afbcdac2033e0e058af466e090375e3e354deb79]]></guid>
-<description><![CDATA[A Secretaria de Educação de Praia Grande diminuiu a lista de espera de 2.214 para 19 crianças no início do ano letivo, após inauguração de novas escolas e reorganização de profissionais.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:eb6c5759fcde6b9fb6d4eddbd9021116aeef3d9b]]></guid>
+<description><![CDATA[O secretário de Governo de Itumbiara (GO) matou os dois filhos e cometeu suicídio no apartamento onde morava. A polícia investiga as circunstâncias do crime, que envolveu uso de arma de fogo e presença de gasolina no local.]]></description>
 <content:encoded><![CDATA[
-<p>A Secretaria de Educação de Praia Grande diminuiu a lista de espera de 2.214 para 19 crianças no início do ano letivo, após inauguração de novas escolas e reorganização de profissionais.</p>
-<p>O início do ano letivo marcou um avanço significativo para a educação infantil em Praia Grande, com a redução da fila por vagas em creches municipais de 2.214 para 19 crianças, representando uma queda de 99%. Essa melhoria ocorreu após a inauguração de quatro novas escolas na cidade, incluindo as EMs Profª Nanci Solano Tavares de Almeida, no bairro Melvi, e Profª Maria Célia Hannickel, no Real, que ampliaram a capacidade de atendimento na Educação Infantil.</p>
-<p>Além das novas unidades, a Secretaria de Educação destacou a redistribuição dos atendentes de educação e dos educadores de desenvolvimento infanto-juvenil, que retornaram às unidades de Educação Infantil. Também foi realizada uma análise pela Coordenadoria de Educação Especial para garantir atendimento adequado a alunos com deficiência que necessitam de acompanhamento específico por meio de plano de ação.</p>
-<p>A secretária de Educação ressaltou que há mais de uma década a administração municipal não conseguia zerar a lista de espera no início do ano, e que o crescimento populacional do município, com aumento anual estimado entre 7 e 10 mil novos moradores, impõe desafios constantes para absorver a demanda nas unidades escolares.</p>
-<p>Atualmente, a rede municipal de ensino de Praia Grande conta com 82 escolas distribuídas em diferentes bairros, atendendo cerca de 54 mil estudantes. A Secretaria de Educação dispõe de aproximadamente 7,5 mil servidores públicos, sendo cerca de 2,4 mil professores, para assegurar a qualidade do ensino.</p>
-<p>A redução significativa da fila por vagas em creches municipais representa uma conquista importante para o público infantil e suas famílias, que agora contam com atendimento garantido na rede municipal de ensino de Praia Grande.</p>
+<p>O secretário de Governo de Itumbiara (GO) matou os dois filhos e cometeu suicídio no apartamento onde morava. A polícia investiga as circunstâncias do crime, que envolveu uso de arma de fogo e presença de gasolina no local.</p>
+<p>Moradores do Condomínio Paraíso acionaram as autoridades após o secretário publicar nas redes sociais uma mensagem na qual anunciava a intenção de matar os filhos e tirar a própria vida. Ao chegarem ao imóvel, encontraram o homem deitado na cama com uma pistola sobre o peito e as duas crianças gravemente feridas no colchão.</p>
+<p>As vítimas, de 12 e 8 anos, apresentavam ferimentos por disparos de arma de fogo na cabeça. Foram socorridas e levadas ao hospital, mas não resistiram. A perícia constatou forte cheiro de gasolina no apartamento e encontrou dois galões vazios com capacidade de aproximadamente cinco litros cada, indicando que o combustível foi espalhado no ambiente.</p>
+<p>O secretário havia publicado mensagens nas redes sociais na noite anterior, expressando dificuldades no casamento, pedindo desculpas à família e amigos e demonstrando afeto pelos filhos. A arma utilizada foi uma pistola Glock G25, calibre .380, recolhida para análise pela polícia.</p>
+<p>A Polícia Civil de Goiás instaurou inquérito para apurar todos os detalhes do caso e esclarecer as motivações do crime. O local permanece sob custódia da segurança do condomínio com apoio policial.</p>
+<p>Equipes do Serviço de Atendimento Móvel de Urgência confirmaram a morte do secretário ainda no local, e a perícia técnico-científica realizou os levantamentos necessários para a investigação.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[São Vicente abre 20 vagas para curso gratuito de Ajudante de Cozinha]]></title>
-<link>https://evwbr.github.io/sp/p/sp_1b72872bb40f119552e45b8ff053a14302866364/</link>
+<title><![CDATA[Concessionária Novo Litoral prevê 1,4 milhão de veículos nas rodovias durante o Carnaval 2026]]></title>
+<link>https://evwbr.github.io/sp/p/sp_58dca6a1992731e196ebc3787432dc297b1fa36a/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 02:49:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 18:23:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:1b72872bb40f119552e45b8ff053a14302866364]]></guid>
-<description><![CDATA[A Prefeitura de São Vicente iniciou as inscrições para o curso gratuito de Ajudante de Cozinha, com 20 vagas disponíveis. As aulas começam em 16 de março e oferecem oportunidade de encaminhamento profissional.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:58dca6a1992731e196ebc3787432dc297b1fa36a]]></guid>
+<description><![CDATA[A Concessionária Novo Litoral (CNL) estima que cerca de 1,42 milhão de veículos trafeguem pelas rodovias sob sua gestão entre os dias 13 e 18 de fevereiro, durante o feriado de Carnaval de 2026.]]></description>
 <content:encoded><![CDATA[
-<p>A Prefeitura de São Vicente iniciou as inscrições para o curso gratuito de Ajudante de Cozinha, com 20 vagas disponíveis. As aulas começam em 16 de março e oferecem oportunidade de encaminhamento profissional.</p>
-<p>O curso é promovido pela Secretaria de Emprego, Trabalho e Renda em parceria com o Sindicato de Hotéis, Bares e Similares da Baixada Santista. A formação é destinada a pessoas interessadas em atuar em restaurantes, bares e hotéis, com foco em técnicas de pré-preparo, corte, higienização e organização de alimentos em cozinhas profissionais.</p>
-<p>As aulas ocorrerão às segundas-feiras, de 16 de março a 6 de abril, das 13h30 às 17h, na Igreja Presbiteriana de São Vicente, localizada no Centro. As inscrições são presenciais e devem ser feitas no Complexo Administrativo Municipal, no 8º andar, sala 84.</p>
-<p>Para participar, os candidatos precisam ter 18 anos ou mais e apresentar cópias do RG, CPF e comprovante de residência, além de preencher um formulário que servirá como critério de seleção. Os alunos com melhor desempenho poderão ser encaminhados ao mercado gastronômico por meio do iFood, que compartilhará seus perfis com estabelecimentos locais.</p>
-<p>Mais informações podem ser obtidas pelo WhatsApp da Coordenadoria de Cursos da Secretaria de Emprego, Trabalho e Renda.</p>
+<p>A Concessionária Novo Litoral (CNL) estima que cerca de 1,42 milhão de veículos trafeguem pelas rodovias sob sua gestão entre os dias 13 e 18 de fevereiro, durante o feriado de Carnaval de 2026.</p>
+<p>A operação especial de Carnaval terá início à meia-noite do dia 13 de fevereiro e se estenderá até a Quarta-Feira de Cinzas, 18 de fevereiro, abrangendo todo o trecho concedido. O maior volume de tráfego é esperado na região da Praia Grande, com mais de 481 mil veículos previstos. A rodovia Mogi-Bertioga deve receber cerca de 106 mil veículos, enquanto a SP-055 Norte, em Santos, aguarda um fluxo superior a 120 mil veículos.</p>
+<p>Para garantir a fluidez e a segurança viária, a CNL mobilizará recursos extras, incluindo monitoramento 24 horas pelo Centro de Controle Operacional em conjunto com o Policiamento Rodoviário. A operação contará com reforço de guinchos, aumento no número de veículos de inspeção de tráfego, bases operacionais com suporte emergencial e possibilidade de implantação de faixa reversível em horários de pico no sentido litoral.</p>
+<p>As obras de rotina nas rodovias serão suspensas a partir do dia 13 de fevereiro, sendo retomadas após o feriado para evitar interferências no trânsito. Também estará proibido o trânsito de cargas especiais durante todo o período da operação. A concessionária reforçará campanhas educativas sobre o uso do cinto de segurança, manutenção preventiva e os riscos de dirigir sob efeito de álcool ou drogas.</p>
+<p>A Concessionária Novo Litoral é responsável pela gestão e modernização de 212 quilômetros de rodovias na Baixada Santista, Alto Tietê e Vale do Ribeira, atuando em 13 municípios com operação 24 horas para oferecer suporte e segurança aos motoristas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[São Vicente abre turmas inclusivas gratuitas de natação e hidroginástica para PCDs e gestantes]]></title>
-<link>https://evwbr.github.io/sp/p/sp_95a833cb0b5b6ea9d02b1261896e6131204b504c/</link>
+<title><![CDATA[Nasa adia voo tripulado à Lua após vazamento de hidrogênio no foguete]]></title>
+<link>https://evwbr.github.io/sp/p/sp_0eba34163b690a685cfe548b7b9ad0dab41b89c2/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 01:49:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 17:02:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:95a833cb0b5b6ea9d02b1261896e6131204b504c]]></guid>
-<description><![CDATA[A Prefeitura de São Vicente oferece vagas gratuitas para aulas de natação e hidroginástica com início em 23 de fevereiro no Clube Esportivo JEPOM.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:0eba34163b690a685cfe548b7b9ad0dab41b89c2]]></guid>
+<description><![CDATA[A missão Artemis II, que levaria quatro astronautas para um sobrevoo lunar, foi adiada para março devido a um vazamento de hidrogênio líquido detectado durante o ensaio final de contagem regressiva no Centro Espacial Kennedy.]]></description>
 <content:encoded><![CDATA[
-<p>A Prefeitura de São Vicente oferece vagas gratuitas para aulas de natação e hidroginástica com início em 23 de fevereiro no Clube Esportivo JEPOM. As atividades acontecerão na piscina do Clube Esportivo JEPOM, com turmas distribuídas das 7h às 21h. O programa atende diversas faixas etárias, incluindo bebês, crianças, jovens e adultos, além de oferecer aulas específicas para gestantes, pessoas com deficiência e praticantes de hidroginástica.</p>
-<p>O objetivo da iniciativa é incentivar a prática esportiva, promover a saúde e ampliar o acesso da população a atividades físicas gratuitas na cidade de São Vicente. As inscrições devem ser feitas presencialmente no Ginásio Dondinho, no bairro Catiapoã. As vagas são limitadas e preenchidas por ordem de inscrição, sendo necessário apresentar a documentação exigida no momento do cadastro.</p>
-<p>A ação reforça a importância do esporte como ferramenta de qualidade de vida, inclusão e bem-estar, proporcionando à população a oportunidade de praticar atividades aquáticas com orientação adequada e sem custos.</p>
+<p>A missão Artemis II, que levaria quatro astronautas para um sobrevoo lunar, foi adiada para março devido a um vazamento de hidrogênio líquido detectado durante o ensaio final de contagem regressiva no Centro Espacial Kennedy.</p>
+<p>O vazamento ocorreu na interface da umbilical de serviço da cauda do foguete Space Launch System (SLS) durante o teste conhecido como 'wet dress rehearsal', que simula o abastecimento real do foguete antes do lançamento. Apesar de os tanques terem sido completamente preenchidos com propelentes super-resfriados, o vazamento interrompeu o cronômetro aos 5 minutos e 15 segundos do T-0 simulado.</p>
+<p>O administrador da Nasa, Jared Isaacman, confirmou o adiamento e explicou que os problemas eram esperados, pois o intervalo entre os lançamentos do SLS é superior a três anos, o que torna esses testes essenciais para identificar falhas em solo, sem a tripulação a bordo.</p>
+<p>A equipe de astronautas da missão Artemis II, composta por Reid Wiseman, Victor Glover, Christina Koch e Jeremy Hansen, chegou a entrar em quarentena em Houston, mas deverá deixar o isolamento até a nova data de lançamento se aproximar.</p>
+<p>A Artemis II será a primeira missão tripulada a levar mais de três pessoas para as proximidades da Lua, incluindo a primeira mulher e o primeiro negro a realizar um sobrevoo lunar, além do primeiro não-americano em uma missão de espaço profundo. A viagem terá duração aproximada de dez dias e servirá para testar sistemas de suporte à vida, comunicações e navegação antes da tentativa de pouso prevista para 2028.</p>
+<p>O vazamento de hidrogênio no umbilical de serviço já havia causado atrasos na missão Artemis I em 2022. Técnicos da Nasa continuam trabalhando nos reparos para garantir a segurança e o sucesso do lançamento da Artemis II.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Maior praia de São Vicente ganha totem turístico para fortalecer turismo e identidade local]]></title>
-<link>https://evwbr.github.io/sp/p/sp_a219a4a93718863481c2f7e526549902484311f9/</link>
+<title><![CDATA[Dono de estúdio de tatuagem é preso por furto de energia em Pitangueiras, Guarujá]]></title>
+<link>https://evwbr.github.io/sp/p/sp_d55a42fd469c8f021d7cea3200c3841f3c27449d/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 01:20:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 12:09:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:a219a4a93718863481c2f7e526549902484311f9]]></guid>
-<description><![CDATA[A Praia do Itararé, maior praia de São Vicente, recebeu um totem que destaca as cidades da Baixada Santista, reforçando o papel histórico e turístico do município na região.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:d55a42fd469c8f021d7cea3200c3841f3c27449d]]></guid>
+<description><![CDATA[Operação integrada da Polícia Civil e do Instituto de Criminalística identificou ligações clandestinas em um estúdio de tatuagem e uma adega no Centro de Guarujá, resultando na prisão em flagrante do responsável por um dos locais.]]></description>
 <content:encoded><![CDATA[
-<p>A Praia do Itararé, maior praia de São Vicente, recebeu um totem que destaca as cidades da Baixada Santista, reforçando o papel histórico e turístico do município na região. O totem instalado na Praia do Itararé indica as cidades da Baixada Santista, com destaque para São Vicente, reconhecida como o primeiro núcleo de ocupação do Brasil. O equipamento foi criado para estimular a integração regional, servir como ponto interativo para moradores e turistas, além de reforçar a identidade local e proporcionar um espaço para registros fotográficos e contemplação da vista no Portal do Sol.</p>
-<p>A iniciativa é da Prefeitura de São Vicente, por meio da Secretaria de Desenvolvimento Urbano (Sedurb), e faz parte da estratégia de valorização dos espaços públicos e fortalecimento do turismo no município. O totem reforça São Vicente como eixo central da Região Metropolitana da Baixada Santista, destacando sua relevância histórica e potencial turístico regional.</p>
-<p>Instalado em um ponto simbólico da cidade, o equipamento representa diálogo, pertencimento e conexão entre os municípios vizinhos. A implantação integra melhorias na subida da Ilha Porchat, consolidando a área como polo de valorização urbana, cultural e turística, e reforça o papel estratégico de São Vicente na região.</p>
-<p>O projeto complementa outras intervenções no Itararé, como a instalação da base de segurança, o Memorial dos 500 Anos, a revitalização da subida da Ilha Porchat e a inauguração da estátua de Iemanjá. Essas ações formam um circuito de atrativos que fortalece o turismo, preserva a memória e amplia o sentimento de pertencimento da população.</p>
-<p>Com essas iniciativas, São Vicente busca valorizar sua história e atrair mais visitantes, consolidando-se como um importante destino turístico na Baixada Santista.</p>
+<p>Operação integrada da Polícia Civil e do Instituto de Criminalística identificou ligações clandestinas em um estúdio de tatuagem e uma adega no Centro de Guarujá, resultando na prisão em flagrante do responsável por um dos locais.</p>
+<p>A ação realizada na última quarta-feira (11) recuperou energia suficiente para abastecer cerca de 1.800 residências por um mês. O furto de energia representa risco à vida das pessoas, prejudica o fornecimento regular e impacta serviços essenciais.</p>
+<p>Este ano, já foram realizadas cinco operações em Guarujá, que resultaram na prisão de cinco pessoas e na recuperação de energia equivalente ao consumo de 9.200 residências por um mês. A concessionária responsável reforça que denúncias podem ser feitas anonimamente para ajudar a manter o fornecimento seguro e de qualidade.</p>
+<p>A concessionária e as autoridades seguem empenhadas no combate ao furto de energia, ressaltando a importância da colaboração da população para evitar práticas criminosas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[MEC autoriza transformação importante no ambiente universitário em 2026]]></title>
-<link>https://evwbr.github.io/sp/p/sp_5bc09a105ba17c3d6cd71dafa2aabc62dddc2996/</link>
+<title><![CDATA[Christina Rocha vive impasse no SBT e dispensa gravações de programa]]></title>
+<link>https://evwbr.github.io/sp/p/sp_d84399e22def42604a3bea2d89504c49f874863f/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 13 Feb 2026 00:49:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 23:32:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:5bc09a105ba17c3d6cd71dafa2aabc62dddc2996]]></guid>
-<description><![CDATA[O Ministério da Educação autorizou mudanças que conferem maior autonomia às instituições reconhecidas como Centro Universitário, após rigorosa avaliação de diversos indicadores acadêmicos.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:d84399e22def42604a3bea2d89504c49f874863f]]></guid>
+<description><![CDATA[A apresentadora Christina Rocha possui conteúdo gravado para cumprir seu contrato atual com o SBT e aguarda uma decisão sobre a renovação, descartando a continuidade do 'Casos de Família' aos sábados, mas demonstrando interesse em novos projetos na emissora.]]></description>
 <content:encoded><![CDATA[
-<p>O Ministério da Educação autorizou mudanças que conferem maior autonomia às instituições reconhecidas como Centro Universitário, após rigorosa avaliação de diversos indicadores acadêmicos.</p>
-<p>A transformação eleva a instituição a um novo nível institucional, permitindo liberdade para criar cursos, ampliar vagas e atualizar projetos pedagógicos com mais agilidade, sempre respeitando as diretrizes do MEC. Essa autonomia vem acompanhada de maior responsabilidade e exigência em relação à qualidade e aos resultados acadêmicos.</p>
-<p>O reconhecimento como Centro Universitário valida o trabalho contínuo da instituição, comprovando sua capacidade de crescimento consistente, planejamento e compromisso acadêmico. Para os estudantes atuais, a mudança proporciona um ambiente acadêmico mais estruturado, enquanto futuros alunos terão acesso a uma maior variedade de cursos e propostas curriculares alinhadas às demandas do mercado de trabalho.</p>
-<p>Além disso, a autonomia possibilita a ampliação de projetos de extensão e iniciativas interdisciplinares, exigindo que as decisões sejam tomadas com base técnica, visão estratégica e compromisso com a formação. O novo status também reforça o compromisso da instituição com a comunidade acadêmica e a sociedade, buscando expandir sem perder profundidade e mantendo a formação conectada às transformações sociais e profissionais.</p>
-<p>A mudança autorizada pelo MEC representa um avanço significativo no ambiente universitário, promovendo maior autonomia e responsabilidade para as instituições, com impacto direto na qualidade da educação oferecida.</p>
+<p>A apresentadora Christina Rocha possui conteúdo gravado para cumprir seu contrato atual com o SBT e aguarda uma decisão sobre a renovação, descartando a continuidade do 'Casos de Família' aos sábados, mas demonstrando interesse em novos projetos na emissora.</p>
+<p>Christina Rocha tem material suficiente gravado para cumprir integralmente seu vínculo atual com o SBT, o que torna sua presença física nos estúdios dispensável no momento. A indefinição contratual gira em torno da renovação, já que a apresentadora não deseja continuar no formato do 'Casos de Família', programa que comandou por anos.</p>
+<p>Apesar da incerteza sobre seu futuro, o programa mantém índices de audiência satisfatórios e solidez comercial, resistindo a sete meses de instabilidade na grade do SBT. Christina permanece aberta a novos projetos dentro da emissora.</p>
+<p>O impasse de Christina reflete um movimento maior de reformulação no SBT, que recentemente perdeu duas apresentadoras importantes: Cariúcha, que deixou o canal para assumir o 'SuperPop' na RedeTV!, e Virginia Fonseca, que optou por não renovar seu contrato para se dedicar a projetos pessoais.</p>
+<p>Além disso, o SBT negocia com Catia Fonseca para estrear um novo programa matutino, enquanto o telejornalismo da emissora sofreu baixa com a saída do jornalista André Azeredo, que aceitou proposta da Record para obter estabilidade profissional e melhores condições financeiras.</p>
+<p>Christina Rocha aguarda os desdobramentos das negociações para definir seu futuro no SBT, decisão que é aguardada com expectativa pela emissora e pelo público que a acompanha há décadas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Famílias de Cubatão recebem escrituras de moradias após quase 40 anos de espera]]></title>
-<link>https://evwbr.github.io/sp/p/sp_1a4dc68c279a56c5256f5b6767d84b14833387ec/</link>
+<title><![CDATA[Primeira sexta-feira 13 de 2026 destaca encerramentos e preparação para novos ciclos]]></title>
+<link>https://evwbr.github.io/sp/p/sp_2a107ef0fa0b017ac20b27c9a41190d6e0c27fcb/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 12 Feb 2026 23:51:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 22:45:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:1a4dc68c279a56c5256f5b6767d84b14833387ec]]></guid>
-<description><![CDATA[A Prefeitura de Cubatão entregou escrituras definitivas para 66 famílias de quatro bairros, encerrando um longo processo de regularização fundiária no município da Baixada Santista.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:2a107ef0fa0b017ac20b27c9a41190d6e0c27fcb]]></guid>
+<description><![CDATA[Data combina Lua Minguante, Sol em Aquário e numerologia do Ano Universal 1 para favorecer limpeza emocional e conclusões conscientes.]]></description>
 <content:encoded><![CDATA[
-<p>A Prefeitura de Cubatão entregou escrituras definitivas para 66 famílias de quatro bairros, encerrando um longo processo de regularização fundiária no município da Baixada Santista.</p>
-<p>A cerimônia de entrega das escrituras ocorreu na noite de quarta-feira (11) e beneficiou moradores dos bairros Jardim Europa (Cota 200), Vila São José, Jardim Nova República (Bolsão) e Vila Natal/Caminho 2. O ato contou com a presença do prefeito César Nascimento, da vice-prefeita e secretária de Habitação Andrea Castro, representantes do Serviço de Patrimônio da União (SPU) e outras autoridades municipais.</p>
-<p>A entrega faz parte do programa de regularização fundiária da Administração Municipal, que já contemplou cerca de quatro mil famílias. Nesta etapa, 66 escrituras foram concedidas, sendo 40 para moradores da Vila Natal e Caminho Dois, 13 para o Jardim Europa, 12 para o Jardim Nova República e uma para a Vila São José.</p>
-<p>O prefeito destacou que a escritura representa a concretização de um direito e ressaltou o esforço conjunto entre a Secretaria de Habitação, SPU, cartórios e moradores para encerrar uma espera que durou décadas. A vice-prefeita enfatizou a importância da parceria com órgãos federais e o trabalho coletivo realizado, que incluiu visitas técnicas, levantamento de dados e reuniões com as comunidades.</p>
-<p>O longo tempo de espera foi lembrado pelos moradores, que aguardavam há pelo menos 20 anos, chegando a 40 anos em alguns casos. Durante a cerimônia, moradores expressaram a emoção e a esperança renovada com a regularização, destacando a importância do momento para suas famílias e para a história dos bairros beneficiados.</p>
-<p>A Prefeitura de Cubatão pretende entregar ainda este ano pelo menos mais mil escrituras, ampliando o programa de regularização fundiária e beneficiando um número crescente de famílias no município.</p>
+<p>Data combina Lua Minguante, Sol em Aquário e numerologia do Ano Universal 1 para favorecer limpeza emocional e conclusões conscientes. A primeira sexta-feira 13 de 2026 não representa azar, mas um momento simbólico de consciência e transformação. A combinação da Lua Minguante com o Sol em Aquário e a vibração numerológica do Ano Universal 1 indica um período propício para encerramentos lúcidos e preparação para novos começos.</p>
+<p>No Tarot, o número 13 está ligado ao Arcano “A Morte”, que simboliza transformação e fechamento de ciclos, e não morte física ou tragédias. A Lua Minguante reforça a necessidade de limpeza, conclusão e desapego, enquanto o Sol em Aquário estimula a revisão de padrões e escolhas mais autênticas.</p>
+<p>A numerologia do ano 2026, associada ao número 1, reforça a ideia de novos inícios que dependem de encerramentos reais. Assim, atitudes simples e conscientes de fechamento, como reconhecer o que perdeu sentido, finalizar pendências e estabelecer limites, são favorecidas nesta data.</p>
+<p>Não se trata de rompimentos impulsivos ou rituais complexos, mas de decisões maduras e gestos concretos que traduzem a energia do momento. A sexta-feira 13 destaca libertações necessárias e alinhamentos para que novos ciclos comecem com bases verdadeiras.</p>
+<p>A data convida a enxergar a sexta-feira 13 como um ponto de transformação e não de medo, enfatizando que encerrar ciclos com consciência é fundamental para o crescimento pessoal e emocional.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Empresas de infraestrutura adotam inteligência climática para proteger negócios]]></title>
-<link>https://evwbr.github.io/sp/p/sp_d8cbbbf508a9e969d2ca303c6b8657b39f53bc08/</link>
+<title><![CDATA[Caracol de ferro: animal das profundezas com concha metálica e coração gigante]]></title>
+<link>https://evwbr.github.io/sp/p/sp_b05eaddd9a9119ff3da20e8a393c0ccbfa3d4a5b/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 12 Feb 2026 23:20:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 20:46:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:d8cbbbf508a9e969d2ca303c6b8657b39f53bc08]]></guid>
-<description><![CDATA[Eventos climáticos extremos impactam diretamente operações e receitas, levando empresas a incorporar a adaptação ao clima como estratégia central.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:b05eaddd9a9119ff3da20e8a393c0ccbfa3d4a5b]]></guid>
+<description><![CDATA[A cerca de 3 mil metros abaixo da superfície do oceano Índico, o caracol-de-pés-escamosos, Chrysomallon squamiferum, possui uma concha com camada mineralizada de sulfeto de ferro e um coração que representa 4% do volume do corpo.]]></description>
 <content:encoded><![CDATA[
-<p>Eventos climáticos extremos impactam diretamente operações e receitas, levando empresas a incorporar a adaptação ao clima como estratégia central. Eventos como enchentes, estiagens prolongadas, ondas de calor e ventos intensos tornaram-se parte do cotidiano empresarial, afetando a segurança, continuidade das operações, custos e prazos. Apesar disso, alguns gestores ainda tratam a resiliência climática como tema secundário, quando ela já é fundamental para a estratégia das organizações.</p>
-<p>A adaptação às mudanças do clima envolve gestão de riscos, governança, planejamento e proteção do negócio. Investir em resiliência climática antes de enfrentar prejuízos é uma forma de blindagem que evita custos maiores e garante a continuidade operacional, especialmente em setores como energia, transporte, mineração, logística e infraestrutura.</p>
-<p>Práticas essenciais para avançar incluem identificar os riscos climáticos específicos para cada negócio, incorporar informações climáticas ao planejamento rotineiro, trabalhar com cenários para simular diferentes condições e elaborar planos de contingência claros e acionáveis. Reduzir a dependência de respostas emergenciais, usar dados climáticos detalhados e promover a integração entre áreas internas também são fundamentais.</p>
-<p>Dar previsibilidade às equipes fortalece a cultura de segurança e melhora a tomada de decisão. Avaliar o impacto real dos eventos climáticos permite ajustes mais inteligentes, e a revisão contínua das estratégias é necessária diante da dinâmica do clima. A adaptação climática deixou de ser diferencial para ser requisito básico para empresas que dependem de ativos físicos e operações complexas.</p>
-<p>Antecipar riscos climáticos reduz custos inesperados e aumenta a previsibilidade, sendo essencial para a sobrevivência e competitividade das empresas em um ambiente cada vez mais instável.</p>
+<p>A cerca de 3 mil metros abaixo da superfície do oceano Índico, o caracol-de-pés-escamosos, Chrysomallon squamiferum, possui uma concha com camada mineralizada de sulfeto de ferro e um coração que representa 4% do volume do corpo.</p>
+<p>O Chrysomallon squamiferum habita áreas próximas a fontes hidrotermais em profundidades extremas, onde a luz solar é inexistente. Sua concha apresenta três camadas distintas, sendo a externa mineralizada com sulfeto de ferro, formando uma verdadeira armadura metálica única entre os animais.</p>
+<p>A espécie sobrevive graças a uma simbiose com bactérias que transformam compostos químicos em energia, compensando a ausência de luz solar para a fotossíntese. Além da concha especial, o caracol possui um coração proporcionalmente grande, cerca de 4% do volume total do corpo, uma característica rara entre os gastrópodes.</p>
+<p>Essas adaptações oferecem resistência ao ambiente brutal em que vivem, garantindo defesa e sobrevivência em um ecossistema extremo e inóspito, localizado nas profundezas do oceano Índico.</p>
+<p>O caracol-de-pés-escamosos é considerado um dos gastrópodes mais peculiares da ciência, destacando-se por suas características únicas que desafiam o conhecimento sobre a vida nas profundezas oceânicas.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Novo golpe envia encomendas não solicitadas para capturar dados bancários]]></title>
-<link>https://evwbr.github.io/sp/p/sp_b89abf7083174d0ea698af5317e20cac39d3cfc4/</link>
+<title><![CDATA[Luiza Ambiel vende água de banheira por até R$ 10 mil em estratégia digital]]></title>
+<link>https://evwbr.github.io/sp/p/sp_36aa5863251e31a6461b03ef483e9241fb92d0da/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 12 Feb 2026 22:50:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 20:31:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:b89abf7083174d0ea698af5317e20cac39d3cfc4]]></guid>
-<description><![CDATA[Consumidores recebem produtos que não compraram acompanhados de QR Codes que levam a sites fraudulentos, visando roubo de informações pessoais e financeiras.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:36aa5863251e31a6461b03ef483e9241fb92d0da]]></guid>
+<description><![CDATA[A atriz e influenciadora Luiza Ambiel, conhecida pela participação na 'Banheira do Gugu' nos anos 1990, anunciou a pré-venda da água de sua própria banheira, com preços que podem chegar a R$ 10 mil, como parte de uma estratégia para ampliar sua receita digital.]]></description>
 <content:encoded><![CDATA[
-<p>Consumidores recebem produtos que não compraram acompanhados de QR Codes que levam a sites fraudulentos, visando roubo de informações pessoais e financeiras. O golpe consiste no envio de encomendas com nome completo e endereço corretos das vítimas, aumentando a credibilidade da fraude. As embalagens trazem QR Codes que prometem detalhes do pedido ou instruções para devolução, mas direcionam para sites falsos onde os criminosos capturam dados pessoais e bancários.</p>
-<p>Especialistas alertam que empresas sérias não solicitam pagamento de taxas ou confirmação de dados sensíveis fora dos canais oficiais. Caso haja suspeita de vazamento de dados, a orientação é registrar boletim de ocorrência, comunicar a empresa envolvida e acionar os bancos para bloquear transações indevidas.</p>
-<p>O conteúdo das encomendas pode variar, incluindo livros, carregadores e peças de roupa. A recomendação é não escanear QR Codes recebidos em situações inesperadas, não clicar em links suspeitos e acessar diretamente os canais oficiais para confirmar informações.</p>
-<p>Em nota, a Amazon informou que não solicita taxas extras nem informações pessoais fora de seu site oficial e orienta que, em caso de dúvida, o cliente consulte diretamente sua conta na plataforma.</p>
-<p>O golpe explora a confiança do consumidor e a rotina acelerada, podendo causar prejuízos financeiros e instalação de programas maliciosos. A atenção e a verificação cuidadosa são fundamentais para evitar cair na fraude.</p>
+<p>A atriz e influenciadora Luiza Ambiel, conhecida pela participação na 'Banheira do Gugu' nos anos 1990, anunciou a pré-venda da água de sua própria banheira, com preços que podem chegar a R$ 10 mil, como parte de uma estratégia para ampliar sua receita digital.</p>
+<p>A iniciativa surgiu após pedidos frequentes de seguidores em sua plataforma de conteúdo adulto, onde Luiza já faturou mais de R$ 100 mil com pedidos personalizados, incluindo a venda de uma peça íntima usada por R$ 25 mil. A influenciadora decidiu iniciar a venda com um lote fechado para avaliar a demanda antes de ampliar a oferta.</p>
+<p>Luiza Ambiel destacou que suas decisões são estratégicas, baseadas no feedback do público e no controle da demanda, e não impulsivas. A atriz iniciou a produção de conteúdo adulto na internet em 2022, aos 50 anos, e vem acompanhando o interesse do público nas plataformas digitais.</p>
+<p>Antes da fase digital, Luiza construiu carreira na televisão brasileira, com participações em programas como 'A Praça é Nossa' e realities como 'Casa dos Artistas 3' e 'A Fazenda 12'. Atualmente, ela utiliza o ambiente digital como principal frente de negócios e reposicionamento de imagem.</p>
+<p>A venda da água da banheira representa uma nova frente na estratégia digital de Luiza Ambiel, que busca diversificar suas fontes de receita e manter a conexão com seu público por meio de produtos exclusivos e personalizados.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Mercado de apostas online no Brasil registra 71 milhões de acessos diários em 2025]]></title>
-<link>https://evwbr.github.io/sp/p/sp_26d4625058fe6806b46d71e662f853f042d5d593/</link>
+<title><![CDATA[Prefeitura de Mongaguá e Artesp avançam em mudanças na Rodovia Padre Manuel da Nóbrega com novos viadutos]]></title>
+<link>https://evwbr.github.io/sp/p/sp_c99d0fdc94abd9d089f081591245e8a6ce041d17/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 12 Feb 2026 21:20:00 GMT</pubDate>
+<pubDate>Thu, 12 Feb 2026 14:55:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:26d4625058fe6806b46d71e662f853f042d5d593]]></guid>
-<description><![CDATA[O setor de apostas online legalizadas no Brasil alcançou 26,4 bilhões de acessos em 2025, consolidando-se como o segundo destino mais visitado da internet no país, atrás apenas do Google.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:c99d0fdc94abd9d089f081591245e8a6ce041d17]]></guid>
+<description><![CDATA[Negociações entre a Prefeitura de Mongaguá e a Artesp avançam para alterar o projeto de modernização da Rodovia Padre Manuel da Nóbrega, incluindo novos viadutos e acessos estratégicos para o município.]]></description>
 <content:encoded><![CDATA[
-<p>O setor de apostas online legalizadas no Brasil alcançou 26,4 bilhões de acessos em 2025, consolidando-se como o segundo destino mais visitado da internet no país, atrás apenas do Google.</p>
-<p>O mercado de apostas online legalizadas teve um crescimento de 237% em relação a 2024, impulsionado pela regulamentação que permitiu patrocínios a times de futebol, competições e eventos, além de forte presença nas redes sociais. A receita estimada do setor em 2025 foi de R$ 36,1 bilhões, enquanto o mercado paralelo movimentou cerca de R$ 14,8 bilhões.</p>
-<p>O recorde de acessos ocorreu em agosto, com 2,7 bilhões de visitas, influenciado pela retomada do calendário esportivo e campanhas de marketing intensas. Apesar da existência de 184 marcas, o tráfego é concentrado: as 10 casas mais acessadas receberam 68% do total, com a Betano liderando isoladamente com 6,1 bilhões de acessos, graças a patrocínios importantes e investimentos em entretenimento.</p>
-<p>O perfil do apostador em 2026 mostra que, embora a maioria seja masculina, as mulheres representam 37% da audiência, e jovens adultos entre 25 e 34 anos são o grupo mais representativo. O consumo do mercado é predominantemente móvel, com 99% do tráfego vindo de celulares.</p>
-<p>As apostas online deixaram de ser um nicho e se tornaram um dos principais pilares da economia digital e da atenção pública no Brasil.</p>
+<p>Negociações entre a Prefeitura de Mongaguá e a Artesp avançam para alterar o projeto de modernização da Rodovia Padre Manuel da Nóbrega, incluindo novos viadutos e acessos estratégicos para o município.</p>
+<p>A principal proposta envolve a readequação do viaduto previsto para o bairro Agenor de Campos, que passará a contar com acessos de entrada e saída da rodovia e conexão direta com a Avenida Nossa Senhora de Fátima, um importante corredor econômico da região. A nova configuração visa promover a interligação entre o lado morro e o lado praia, valorizando o acesso à Plataforma de Pesca e impulsionando o desenvolvimento econômico e turístico local.</p>
+<p>Além do viaduto de Agenor de Campos, a Prefeitura apresentou outras propostas que também devem receber aval da Artesp, incluindo a implantação de um viaduto no Jardim Praia Grande, substituindo a previsão original de uma simples passagem em desnível, e a reformulação das vias marginais com melhorias nas avenidas Monteiro Lobato e Tiradentes.</p>
+<p>Outro ponto discutido foi a solicitação da Prefeitura para intermediar junto à concessionária da linha férrea que cruza Mongaguá um agendamento para tratar de intervenções municipais no trecho ferroviário, enquanto ocorre o processo de transferência da tutela da área para o município.</p>
+<p>O encontro contou com a participação de secretários municipais, gestores e vereadores, e as tratativas seguem em andamento, podendo representar avanços significativos na mobilidade urbana e infraestrutura viária de Mongaguá, atendendo a antigas reivindicações da população e preparando a cidade para um crescimento sustentável.</p>
+<p>As mudanças propostas na Rodovia Padre Manuel da Nóbrega refletem um esforço conjunto entre a Prefeitura de Mongaguá e a Artesp para modernizar a infraestrutura viária, valorizando áreas estratégicas e promovendo o desenvolvimento econômico e social da região.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
