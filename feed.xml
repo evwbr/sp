@@ -8,20 +8,36 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Wed, 18 Feb 2026 11:25:37 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Feb 2026 12:27:08 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Acidente causa lentidão na Rodovia Cônego Domênico Rangoni em São Paulo]]></title>
-<link>https://evwbr.github.io/sp/p/sp_2e3b864a5902bd221d87c6cc417eb3dbba48f62f/</link>
+<title><![CDATA[Helicóptero da PM faz pouso tático em rua do Brás durante ocorrência em condomínio]]></title>
+<link>https://evwbr.github.io/sp/p/sp_90fa36d3b58f1fb9b6bb53f7a74fe41bb3af0221/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 18 Feb 2026 10:27:00 GMT</pubDate>
+<pubDate>Wed, 18 Feb 2026 12:13:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:2e3b864a5902bd221d87c6cc417eb3dbba48f62f]]></guid>
-<description><![CDATA[Na manhã desta quarta-feira (18), um acidente na Rodovia Cônego Domênico Rangoni provoca lentidão entre os quilômetros 251 e 248, no sentido Cubatão.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:90fa36d3b58f1fb9b6bb53f7a74fe41bb3af0221]]></guid>
+<description><![CDATA[Um helicóptero da Polícia Militar pousou na manhã desta quarta-feira na rua Prudente de Morais, no Brás, para apoiar viaturas em atendimento a uma ocorrência em um condomínio na região.]]></description>
 <content:encoded><![CDATA[
-<p>Na manhã desta quarta-feira (18), um acidente na Rodovia Cônego Domênico Rangoni provoca lentidão entre os quilômetros 251 e 248, no sentido Cubatão. O acidente ocorreu no trecho da rodovia que liga o litoral paulista a São Paulo, gerando congestionamento no local. A lentidão foi registrada entre os quilômetros 251 e 248.</p>
-<p>Os demais trechos da rodovia, assim como as vias que conectam o litoral paulista a outros estados, apresentam condições normais de tráfego. O tempo está encoberto nas regiões de planalto, serra e na interligação.</p>
-<p>Motoristas devem redobrar a atenção ao trafegar pela Rodovia Cônego Domênico Rangoni devido ao acidente e à lentidão no trecho afetado.</p>
+<p>Um helicóptero da Polícia Militar pousou na manhã desta quarta-feira na rua Prudente de Morais, no Brás, para apoiar viaturas em atendimento a uma ocorrência em um condomínio na região.</p>
+<p>Moradores dos prédios próximos relataram que a aeronave estava dando suporte às equipes dos bombeiros e da Polícia Militar durante o atendimento à ocorrência. Disparos foram ouvidos dentro do condomínio, o que motivou a ação policial.</p>
+<p>A presença do helicóptero causou transtornos no trânsito local, levando à interdição da rua Prudente de Morais entre as ruas Martim Burchard e Domingos Paiva. O bloqueio impediu o fluxo de veículos e o acesso dos ônibus ao terminal próximo à estação do Metrô Brás.</p>
+<p>Ainda não há informações oficiais sobre feridos ou detalhes sobre o que ocorreu no condomínio. As autoridades estão sendo contatadas para esclarecimentos. A situação segue em apuração, com atualizações aguardadas das autoridades responsáveis.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Tilápia-do-nilo ameaça espécies nativas e prejudica pescadores no Brasil]]></title>
+<link>https://evwbr.github.io/sp/p/sp_992aa3eb2793e90a16edd1ba52b918468e7bbda7/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Wed, 18 Feb 2026 12:15:00 GMT</pubDate>
+<category><![CDATA[SP - São Paulo]]></category>
+<guid isPermaLink="false"><![CDATA[sp:992aa3eb2793e90a16edd1ba52b918468e7bbda7]]></guid>
+<description><![CDATA[Espécie invasora vinda da África tem se reproduzido em ambientes naturais brasileiros, afetando o equilíbrio ecológico e a renda de pescadores locais.]]></description>
+<content:encoded><![CDATA[
+<p>Espécie invasora vinda da África tem se reproduzido em ambientes naturais brasileiros, afetando o equilíbrio ecológico e a renda de pescadores locais. A tilápia-do-nilo, introduzida no Brasil para fins de piscicultura, escapou para ambientes naturais onde tem se reproduzido massivamente. Essa espécie apresenta alta capacidade de adaptação, sobrevivendo em condições adversas como água poluída e baixos níveis de oxigênio, o que facilita sua expansão em regiões não propícias a ela.</p>
+<p>A presença da tilápia-do-nilo tem causado desequilíbrio ecológico ao competir por alimento e espaço com peixes nativos. Além disso, sua reprodução acelerada e a ausência de predadores naturais contribuem para sua proliferação. Essa situação impacta negativamente a rotina dos pescadores, que enfrentam redução na captura de espécies tradicionais e, consequentemente, queda na renda.</p>
+<p>Para controlar a expansão da tilápia-do-nilo, pesquisadores recomendam a implementação de políticas públicas focadas no monitoramento e manejo ambiental. Entre as medidas propostas estão a instalação de barreiras físicas em canais e outras ações para limitar a dispersão da espécie invasora.</p>
+<p>A tilápia-do-nilo representa um desafio ambiental e econômico no Brasil, exigindo esforços coordenados para preservar as espécies nativas e garantir a sustentabilidade da pesca local.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
