@@ -8,20 +8,23 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Sat, 21 Feb 2026 16:25:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 20:25:42 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Congestionamento de 9 km na Rodovia dos Imigrantes na subida para São Paulo]]></title>
-<link>https://evwbr.github.io/sp/p/sp_764989162ac1f19765fe498b8d47218f67045368/</link>
+<title><![CDATA[Novo trem entre São Paulo e Campinas terá inteligência artificial e sistema de automação para viagens a 140 km/h]]></title>
+<link>https://evwbr.github.io/sp/p/sp_a0c1376d376956a313091cc4f4cee1ef91d2b298/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 21 Feb 2026 15:31:00 GMT</pubDate>
+<pubDate>Sat, 21 Feb 2026 19:33:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:764989162ac1f19765fe498b8d47218f67045368]]></guid>
-<description><![CDATA[No começo da tarde deste sábado, a Rodovia dos Imigrantes apresenta lentidão de 9 km no sentido São Paulo devido ao excesso de veículos.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:a0c1376d376956a313091cc4f4cee1ef91d2b298]]></guid>
+<description><![CDATA[O Trem Intercidades Eixo Norte, que ligará São Paulo a Campinas em 64 minutos, contará com tecnologia avançada da CRRC, incluindo inteligência artificial e sistema CBTC, para garantir segurança e eficiência nas viagens.]]></description>
 <content:encoded><![CDATA[
-<p>No começo da tarde deste sábado, a Rodovia dos Imigrantes apresenta lentidão de 9 km no sentido São Paulo devido ao excesso de veículos. O congestionamento ocorre entre os quilômetros 58 e 49, conforme registrado pela Ecovias. A situação é agravada pelo trânsito intenso nas rodovias da região, tanto no sentido litoral quanto na direção da capital paulista.</p>
-<p>Além disso, a Interligação Planalto está interditada nos dois sentidos devido à neblina, o que contribui para a lentidão. Na Rodovia Anchieta, há uma interdição de 15 km entre os quilômetros 55 e 40, causada por obras no sentido São Paulo.</p>
-<p>O tempo permanece encoberto nos trechos de planalto, serra e na interligação, dificultando a visibilidade e o fluxo de veículos. Motoristas devem redobrar a atenção e considerar rotas alternativas para evitar atrasos durante o trajeto para São Paulo neste sábado.</p>
+<p>O Trem Intercidades Eixo Norte, que ligará São Paulo a Campinas em 64 minutos, contará com tecnologia avançada da CRRC, incluindo inteligência artificial e sistema CBTC, para garantir segurança e eficiência nas viagens.</p>
+<p>Os novos trens da CRRC, recentemente desembarcados no Porto de Santos, prometem revolucionar o transporte ferroviário paulista. O projeto do Trem Intercidades Eixo Norte destaca-se pelo sistema de automação e sinalização de última geração, que permite viagens seguras a 140 km/h, elevando o nível do transporte urbano no Brasil.</p>
+<p>A composição utiliza inteligência artificial para otimizar aceleração e frenagem, garantindo precisão no trajeto e reduzindo a margem de erro humano. O sistema CBTC cria uma 'bolha' de segurança ao redor do trem, monitorando sua posição e velocidade em tempo real e acionando os freios automaticamente em caso de riscos.</p>
+<p>Além disso, os trens são equipados com sensores de infravermelho e radares para detectar obstáculos nas vias, possibilitando a redução de velocidade ou parada imediata sem intervenção manual. A tecnologia também inclui gestão de energia para maior eficiência e manutenção preditiva, que evita falhas e atrasos.</p>
+<p>A automação avançada torna viável o compartilhamento das faixas de domínio e a regularidade necessária para atrair passageiros que atualmente utilizam carros ou ônibus, transformando a viagem entre São Paulo e Campinas em uma experiência tecnológica e previsível.</p>
+<p>O Trem Intercidades Eixo Norte, previsto para ser concluído em 2031, representa um avanço significativo na mobilidade entre as duas maiores metrópoles do estado de São Paulo, colocando o interior paulista em um novo patamar de transporte ferroviário.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
