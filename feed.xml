@@ -8,54 +8,39 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Sun, 22 Feb 2026 22:25:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 02:27:38 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Serra Mogi-Bertioga é interditada por temporal extremo e bloqueia acesso ao litoral]]></title>
-<link>https://evwbr.github.io/sp/p/sp_81c6bafdfacc7ba0aaad6a7fa1d3e67a8f458e7f/</link>
+<title><![CDATA[Google desativa rede que usava celulares Android para crimes digitais silenciosos]]></title>
+<link>https://evwbr.github.io/sp/p/sp_143ac86a08592b36ec8984cb1f3147938525a02b/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 22 Feb 2026 21:52:00 GMT</pubDate>
+<pubDate>Mon, 23 Feb 2026 01:59:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:81c6bafdfacc7ba0aaad6a7fa1d3e67a8f458e7f]]></guid>
-<description><![CDATA[A Serra Mogi-Bertioga (SP-098) foi temporariamente interditada neste domingo devido ao alto volume de chuvas, afetando o acesso ao litoral paulista. Motoristas devem utilizar o Sistema Anchieta-Imigrantes como rota alternativa.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:143ac86a08592b36ec8984cb1f3147938525a02b]]></guid>
+<description><![CDATA[O Google desativou a IPIDEA, uma rede que utilizava milhões de aparelhos Android como pontes para ataques cibernéticos, dificultando a detecção por sistemas de segurança tradicionais.]]></description>
 <content:encoded><![CDATA[
-<p>A Serra Mogi-Bertioga (SP-098) foi temporariamente interditada neste domingo devido ao alto volume de chuvas, afetando o acesso ao litoral paulista. Motoristas devem utilizar o Sistema Anchieta-Imigrantes como rota alternativa.</p>
-<p>A interdição da Serra Mogi-Bertioga teve início às 18h20 de domingo, entre os quilômetros 98+100 e 69+500, em ambos os sentidos, como medida preventiva para garantir a segurança dos usuários diante do acumulado de aproximadamente 225 milímetros de chuva nas últimas 72 horas, valor considerado acima do limite seguro para a operação da rodovia de serra.</p>
-<p>A concessionária responsável pelo trecho mantém programas permanentes de gerenciamento de risco e monitoramento das encostas, com intervenções preventivas realizadas em 2025, como remoção de rochas soltas, implantação de contenções, limpeza dos sistemas de drenagem, instalação de equipamentos de monitoramento e inspeções frequentes.</p>
-<p>Com o bloqueio, a orientação é que os motoristas utilizem o Sistema Anchieta-Imigrantes para acessar a Baixada Santista e o Litoral Norte, além de evitar deslocamentos desnecessários enquanto persistirem as condições climáticas adversas. Equipes seguem em campo para acompanhar as condições e liberar o tráfego assim que houver segurança.</p>
-<p>Não há previsão oficial para a reabertura da Serra Mogi-Bertioga, que dependerá da redução das chuvas e de novas avaliações técnicas sobre a estabilidade das encostas. Usuários podem buscar suporte pelo telefone 0800 098 88 55.</p>
+<p>O Google desativou a IPIDEA, uma rede que utilizava milhões de aparelhos Android como pontes para ataques cibernéticos, dificultando a detecção por sistemas de segurança tradicionais.</p>
+<p>A rede IPIDEA funcionava por meio de kits de desenvolvimento inseridos em aplicativos comuns, que, ao serem instalados e autorizados pelo usuário, transformavam o dispositivo em uma rota de saída de dados para criminosos. Essa estrutura usava IPs residenciais em vez de servidores, fazendo com que os ataques parecessem tráfego legítimo e dificultando o bloqueio pelas defesas automáticas.</p>
+<p>Grupos de cibercriminosos de diferentes países utilizavam essa infraestrutura para espionagem, ataques massivos e fraudes, alugando o serviço para manter operações complexas e prolongadas. Para combater o esquema, o Google realizou ações legais, derrubou dezenas de domínios e atualizou o Play Protect para remover os aplicativos infectados, além de compartilhar informações com parceiros globais de segurança.</p>
+<p>Apesar da redução significativa no número de aparelhos comprometidos, o risco permanece. A operação destaca a importância de os usuários revisarem as permissões solicitadas por aplicativos e removerem aqueles que pareçam suspeitos, pois infraestruturas maliciosas podem estar ocultas em programas cotidianos.</p>
+<p>A ação do Google evidencia a necessidade de atenção constante dos usuários para proteger seus dispositivos Android contra ameaças invisíveis que podem comprometer a segurança digital.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Lago Dau Tieng, no Vietnã, pode se tornar paraíso turístico até 2050]]></title>
-<link>https://evwbr.github.io/sp/p/sp_2da8ff7205d725a37c4569863e2611ae559b0023/</link>
+<title><![CDATA[Anvisa proíbe nova caneta emagrecedora do Paraguai e alerta para riscos à saúde]]></title>
+<link>https://evwbr.github.io/sp/p/sp_8cd0d1699dcad35254a87b767a13b10f34078cfe/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 22 Feb 2026 22:19:00 GMT</pubDate>
+<pubDate>Mon, 23 Feb 2026 01:29:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:2da8ff7205d725a37c4569863e2611ae559b0023]]></guid>
-<description><![CDATA[Com área de 270 km², o Lago Dau Tieng é um dos maiores reservatórios artificiais do Vietnã e desempenha papel vital na irrigação e abastecimento hídrico da região. Projeto ambicioso prevê transformação do local em polo de ecoturismo de padrão internacional.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:8cd0d1699dcad35254a87b767a13b10f34078cfe]]></guid>
+<description><![CDATA[A Agência Nacional de Vigilância Sanitária proibiu a importação e uso do medicamento Tirzec, fabricado no Paraguai, por não possuir registro sanitário no Brasil, aumentando preocupações com a segurança e eficácia do produto.]]></description>
 <content:encoded><![CDATA[
-<p>Com área de 270 km², o Lago Dau Tieng é um dos maiores reservatórios artificiais do Vietnã e desempenha papel vital na irrigação e abastecimento hídrico da região. Projeto ambicioso prevê transformação do local em polo de ecoturismo de padrão internacional.</p>
-<p>Localizado no sudeste do Vietnã, próximo à cidade de Tây Ninh, o Lago Dau Tieng possui uma área aproximada de 270 quilômetros quadrados, dimensão comparável à mancha urbana de grandes cidades brasileiras como Belo Horizonte e Curitiba. O reservatório foi criado a partir da construção de uma grande barragem com o objetivo de controlar enchentes e garantir o abastecimento de água para a agricultura na região.</p>
-<p>O lago tem capacidade para armazenar cerca de 1,58 bilhão de metros cúbicos de água e abastece aproximadamente 1.170 quilômetros quadrados de terras agrícolas, além de outras 940 quilômetros quadrados ao longo dos rios Saigon e Vam Co Dong, incluindo a cidade de Ho Chi Minh. Por isso, é considerado o 'coração da irrigação' do sul do Vietnã.</p>
-<p>Atualmente, o Lago Dau Tieng passa por um processo de transformação para se tornar um destino turístico de luxo e ecoturismo. O projeto prevê a construção de hotéis e resorts com quase 5.000 quartos, além de parques de safári, marinas, áreas para esportes aquáticos, parques temáticos e mercados noturnos. A capacidade turística estimada é de até 61.000 visitantes por dia.</p>
-<p>A iniciativa também inclui a preservação ambiental, com mais de 3.600 hectares de floresta protegida. A receita gerada pelo turismo será reinvestida na conservação da biodiversidade e proteção florestal, buscando garantir o desenvolvimento socioeconômico sem comprometer os recursos naturais a longo prazo.</p>
-<p>Com sua importância estratégica para a segurança hídrica e os planos de desenvolvimento sustentável e turístico, o Lago Dau Tieng se posiciona como um importante polo para o crescimento econômico e ambiental do sudeste asiático até 2050.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Erro comum no preparo do café instantâneo pode comprometer sabor e textura]]></title>
-<link>https://evwbr.github.io/sp/p/sp_d440ac3859d0176cd8d9dc51418ed5668782decc/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 22 Feb 2026 21:35:00 GMT</pubDate>
-<category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:d440ac3859d0176cd8d9dc51418ed5668782decc]]></guid>
-<description><![CDATA[Preparar café instantâneo despejando água quente diretamente sobre o pó pode prejudicar o aroma e a textura da bebida, segundo especialistas.]]></description>
-<content:encoded><![CDATA[
-<p>Preparar café instantâneo despejando água quente diretamente sobre o pó pode prejudicar o aroma e a textura da bebida, segundo especialistas. O método tradicional de preparar café instantâneo, que consiste em despejar água quente diretamente sobre o pó, provoca um aquecimento desigual. Isso faz com que o amido presente no café se aglomere, resultando em uma bebida com aroma reduzido e textura granulada.</p>
-<p>Uma técnica simples para melhorar o sabor é dissolver primeiro o pó em água fria, mexendo até a completa dissolução, e só então adicionar a água quente. Essa prática favorece uma mistura mais homogênea e um sabor mais equilibrado.</p>
-<p>Além disso, o processo de liofilização, que envolve congelamento e secagem a vácuo dos grãos torrados, preserva o paladar natural e a textura característica do café instantâneo. Outros cuidados que influenciam no resultado final incluem usar a proporção correta de café e água, aquecer a xícara antes do preparo para evitar perda de temperatura e garantir uma bebida mais suave.</p>
-<p>A principal recomendação para quem deseja um café instantâneo de melhor qualidade é dissolver o pó em água fria antes de adicionar a água quente, garantindo assim uma bebida mais saborosa e com textura agradável.</p>
+<p>A Agência Nacional de Vigilância Sanitária proibiu a importação e uso do medicamento Tirzec, fabricado no Paraguai, por não possuir registro sanitário no Brasil, aumentando preocupações com a segurança e eficácia do produto.</p>
+<p>A Anvisa publicou a Resolução-RE nº 641, de 18 de fevereiro de 2026, que veta a importação, transporte, distribuição, divulgação e uso do Tirzec, medicamento com tirzepatida como princípio ativo. O fabricante estrangeiro não solicitou autorização para comercialização no país, impedindo a avaliação da qualidade e segurança do produto.</p>
+<p>A tirzepatida é indicada para controle do diabetes tipo 2 e tem ganhado popularidade pelo efeito de perda de peso, o que tem impulsionado a circulação de versões sem registro, especialmente em cidades de fronteira. Atualmente, apenas duas marcas paraguaias, Gluconex e Lipoland, têm autorização para importação por pessoas físicas, mediante receita médica e quantidade limitada a três meses de tratamento.</p>
+<p>O aumento do mercado paralelo gerou um crescimento de cerca de 80% nas apreensões de canetas emagrecedoras na região de Foz do Iguaçu até meados de fevereiro. No Paraguai, houve relatos de assaltos a farmácias e depósitos, além de denúncias de falsificação envolvendo produtos com tirzepatida, elevando os riscos para os consumidores.</p>
+<p>A Anvisa orienta que os pacientes busquem avaliação médica antes de utilizar qualquer medicamento para emagrecimento e evitem a compra de produtos sem registro sanitário, reforçando que o uso de medicamentos sem controle pode causar reações adversas e comprometer a saúde.</p>
+<p>A proibição do Tirzec reforça a necessidade de controle rigoroso sobre medicamentos importados e o combate ao mercado ilegal para garantir a segurança dos consumidores brasileiros.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
