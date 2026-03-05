@@ -8,22 +8,83 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Thu, 05 Mar 2026 02:27:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 14:28:28 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[BNH da Aparecida, em Santos, inicia modernização da iluminação pública com LED]]></title>
-<link>https://evwbr.github.io/sp/p/sp_c795f9929c45cff789b3db93efa41b732dfb4187/</link>
+<title><![CDATA[Ciclone extratropical provoca frente fria, ventos fortes e alerta de ressaca na Baixada Santista]]></title>
+<link>https://evwbr.github.io/sp/p/sp_6e8bd14c9888564dd6e5e497d648899eae1f8983/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 05 Mar 2026 01:43:00 GMT</pubDate>
+<pubDate>Thu, 05 Mar 2026 14:18:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:c795f9929c45cff789b3db93efa41b732dfb4187]]></guid>
-<description><![CDATA[O Conjunto Residencial Humberto de Alencar Castelo Branco, em Santos, começou a receber a substituição da iluminação em 187 pontos, beneficiando cerca de 20 mil moradores.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:6e8bd14c9888564dd6e5e497d648899eae1f8983]]></guid>
+<description><![CDATA[Um ciclone extratropical em formação no oceano provoca queda de temperatura, chuva intensa e ventos de até 65 km/h na Baixada Santista, além de risco significativo de ressaca no litoral paulista.]]></description>
 <content:encoded><![CDATA[
-<p>O Conjunto Residencial Humberto de Alencar Castelo Branco, em Santos, começou a receber a substituição da iluminação em 187 pontos, beneficiando cerca de 20 mil moradores. A modernização contempla 187 pontos distribuídos em 47 ruas do bairro Aparecida. As novas luminárias de LED possuem potência de 70 watts e a instalação deve ser concluída até o dia 27 de março, dependendo das condições climáticas.</p>
-<p>A troca das lâmpadas antigas de vapor de sódio, que emitiam luz amarela, por luminárias de LED com luz branca visa melhorar a visibilidade noturna e ampliar a sensação de segurança no conjunto residencial.</p>
-<p>O novo sistema de iluminação possui vida útil superior a 100 mil horas, reduzindo a necessidade de manutenção e gerando economia com reparos. As luminárias anteriores apresentavam desgaste e baixa eficiência luminosa.</p>
-<p>O Conjunto Residencial Humberto de Alencar Castelo Branco, concluído em 1971, é um marco da arquitetura modernista voltada à habitação social, com 3.288 apartamentos distribuídos em 12 condomínios e 97 edifícios.</p>
-<p>Em 2025, a Prefeitura de Santos modernizou a iluminação de outros bairros, instalando quase 4 mil luminárias de LED, e em 2024 já havia implantado mais de 4,7 mil pontos com essa tecnologia.</p>
+<p>Um ciclone extratropical em formação no oceano provoca queda de temperatura, chuva intensa e ventos de até 65 km/h na Baixada Santista, além de risco significativo de ressaca no litoral paulista.</p>
+<p>O ciclone atua como um motor que empurra uma frente fria vigorosa para o litoral de São Paulo, causando uma virada brusca no tempo. No domingo, a nebulosidade aumenta e há previsão de pancadas de chuva que podem se intensificar rapidamente, com a instabilidade se consolidando na segunda-feira.</p>
+<p>Os ventos fortes gerados pelo ciclone, com velocidade podendo chegar a 65 km/h, provocam maré alta e ondas fortes, aumentando o risco de ressaca. Essa condição representa perigo para moradores e turistas, afetando calçadões e a faixa de areia.</p>
+<p>A partir de segunda-feira, uma massa de ar frio reduz as temperaturas máximas para entre 21°C e 24°C, afastando o calor dos últimos dias que chegou a 30°C. As autoridades recomendam evitar o banho de mar, esportes aquáticos e navegação de pequeno porte enquanto o sistema estiver ativo.</p>
+<p>As projeções meteorológicas são baseadas em modelos oficiais, e os avisos sobre o mar seguem monitoramento da Marinha e da Defesa Civil do Estado de São Paulo.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Golpe da maquininha adulterada esvazia contas bancárias em São Paulo]]></title>
+<link>https://evwbr.github.io/sp/p/sp_bf92f7208109180ae4cbc77f0a97ad91312dedf8/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 05 Mar 2026 12:00:00 GMT</pubDate>
+<category><![CDATA[SP - São Paulo]]></category>
+<guid isPermaLink="false"><![CDATA[sp:bf92f7208109180ae4cbc77f0a97ad91312dedf8]]></guid>
+<description><![CDATA[Criminosos modificam visores de máquinas de cartão para que clientes digitem a senha acreditando em valores menores, enquanto o débito real é muito maior.]]></description>
+<content:encoded><![CDATA[
+<p>Criminosos modificam visores de máquinas de cartão para que clientes digitem a senha acreditando em valores menores, enquanto o débito real é muito maior. A fraude ocorre com a alteração do visor do equipamento ou uso de películas que distorcem os números, fazendo com que o cliente veja um valor inferior ao registrado pelo sistema. Após a senha ser digitada, o golpista desliga a máquina ou alega que o papel acabou, impedindo a visualização do comprovante na hora.</p>
+<p>O golpe é mais frequente em locais com alta rotatividade e barulho, como eventos, praias, bares lotados, quiosques, estacionamentos improvisados em shows e festivais, além de entregas feitas por motoboys falsos que utilizam máquinas com visores propositalmente danificados.</p>
+<p>A contestação dos valores é dificultada porque o sistema bancário considera a transação autorizada pelo cliente, já que a senha foi digitada, caracterizando uma autorização voluntária sob erro e não clonagem.</p>
+<p>Para evitar o golpe, é recomendado não digitar a senha se o visor estiver danificado ou coberto, se o vendedor não permitir que o cliente segure a máquina, se o valor não aparecer claramente antes da senha, ou se houver insistência para passar o cartão novamente sob a justificativa de erro de conexão. Ativar notificações de compra no aplicativo do banco também ajuda a identificar transações suspeitas imediatamente.</p>
+<p>O golpe da maquininha adulterada representa um risco crescente, exigindo atenção redobrada dos consumidores para evitar prejuízos financeiros.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Acidente com Camaro deixa dois carros capotados em São Vicente]]></title>
+<link>https://evwbr.github.io/sp/p/sp_d7eae8d973b6b45fdf66b74200147ff739926cc9/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 05 Mar 2026 11:38:00 GMT</pubDate>
+<category><![CDATA[SP - São Paulo]]></category>
+<guid isPermaLink="false"><![CDATA[sp:d7eae8d973b6b45fdf66b74200147ff739926cc9]]></guid>
+<description><![CDATA[Colisão entre um Camaro e outro veículo na região do Sá Catarina de Moraes resultou no capotamento dos dois carros, sem feridos graves.]]></description>
+<content:encoded><![CDATA[
+<p>Colisão entre um Camaro e outro veículo na região do Sá Catarina de Moraes resultou no capotamento dos dois carros, sem feridos graves. Na noite de quarta-feira (4), um acidente envolvendo um Camaro e outro carro ocorreu na região do Sá Catarina de Moraes, em São Vicente. O motorista do Camaro perdeu o controle do veículo e colidiu com o segundo carro, que também acabou capotando após a colisão.</p>
+<p>Apesar da gravidade do acidente e dos veículos capotados, não foram registrados feridos graves no local. O trânsito na região foi afetado, mas as autoridades não informaram sobre bloqueios ou lentidão decorrentes do acidente.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Cerveja sem álcool pode causar multa e suspensão da CNH por até 1 ano]]></title>
+<link>https://evwbr.github.io/sp/p/sp_4db9e7d05e485f745c4b34e6977e7a9f25fc106a/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 05 Mar 2026 11:15:00 GMT</pubDate>
+<category><![CDATA[SP - São Paulo]]></category>
+<guid isPermaLink="false"><![CDATA[sp:4db9e7d05e485f745c4b34e6977e7a9f25fc106a]]></guid>
+<description><![CDATA[Motoristas que consomem cervejas rotuladas como 'sem álcool' podem ser multados e ter a carteira de habilitação suspensa por até 12 meses devido ao teor alcoólico permitido pela legislação brasileira.]]></description>
+<content:encoded><![CDATA[
+<p>Motoristas que consomem cervejas rotuladas como 'sem álcool' podem ser multados e ter a carteira de habilitação suspensa por até 12 meses devido ao teor alcoólico permitido pela legislação brasileira.</p>
+<p>No Brasil, as normas do Ministério da Agricultura autorizam que cervejas rotuladas como 'sem álcool' contenham até 0,5% de teor alcoólico. Apesar de parecer pouco, esse índice pode ser detectado pelo etilômetro e resultar em infração gravíssima na Lei Seca, que adota tolerância zero para álcool no sangue de motoristas.</p>
+<p>A diferença entre cervejas 'sem álcool' e '0,0%' é fundamental. As primeiras passam por fermentação e têm o álcool parcialmente removido, podendo conter até 0,5%. Já as cervejas '0,0%' impedem a fermentação ou eliminam totalmente o álcool, garantindo a ausência da substância.</p>
+<p>Um estudo do Inmetro indicou que o consumo de cerca de 700 ml de cerveja com até 0,4% de álcool normalmente não gera resultado positivo no bafômetro após 15 minutos. Entretanto, o consumo em grandes quantidades ou em curto intervalo de tempo pode resultar em índice alcoólico detectável.</p>
+<p>Caso o bafômetro acuse qualquer presença de álcool, o motorista está sujeito a multa gravíssima no valor de R$ 2.934,70, suspensão da carteira por 12 meses e retenção do veículo até a apresentação de um condutor habilitado e sóbrio.</p>
+<p>Para evitar riscos jurídicos, motoristas que pretendem dirigir devem optar por bebidas com selo '0,0%' ou escolher sucos e refrigerantes.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Congestionamento de 24 km na subida para São Paulo pela Rodovia dos Imigrantes nesta quinta-feira]]></title>
+<link>https://evwbr.github.io/sp/p/sp_816c36ed1e1c8200a77d900256f795c6f5d523c0/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 05 Mar 2026 10:16:00 GMT</pubDate>
+<category><![CDATA[SP - São Paulo]]></category>
+<guid isPermaLink="false"><![CDATA[sp:816c36ed1e1c8200a77d900256f795c6f5d523c0]]></guid>
+<description><![CDATA[O Sistema Anchieta-Imigrantes registra congestionamento na manhã desta quinta-feira, 5 de março de 2026, em dois trechos no sentido São Paulo devido ao alto fluxo de veículos.]]></description>
+<content:encoded><![CDATA[
+<p>O Sistema Anchieta-Imigrantes registra congestionamento na manhã desta quinta-feira, 5 de março de 2026, em dois trechos no sentido São Paulo devido ao alto fluxo de veículos. Na Rodovia Anchieta, o trânsito está lento do quilômetro 16 ao 10, reflexo do grande volume de veículos que sobem da Baixada Santista em direção à capital paulista.</p>
+<p>Já na Rodovia dos Imigrantes, o congestionamento é maior, estendendo-se do quilômetro 40 ao 16, também no sentido São Paulo pelo mesmo motivo. Nos demais trechos das duas rodovias, o tráfego está fluindo normalmente, sem registros de acidentes ou bloqueios. A Rodovia Padre Manoel da Nóbrega apresenta trânsito normal nos dois sentidos, sem ocorrências.</p>
+<p>As condições climáticas estão boas em todos os trechos sob concessão. A concessionária responsável oferece atendimento 24 horas para emergências pelo telefone 0800 019 7878, que também funciona via WhatsApp, além dos telefones de emergência espalhados pelo sistema.</p>
+<p>Motoristas devem permanecer atentos às condições do trânsito e utilizar os canais de atendimento em caso de necessidade.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
