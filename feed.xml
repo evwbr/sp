@@ -8,21 +8,21 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Sun, 08 Mar 2026 20:25:58 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Mar 2026 21:26:39 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[CPFL Energia libera pagamento de contas por PIX Automático]]></title>
-<link>https://evwbr.github.io/sp/p/sp_e770848fbb36e561f1821cf0db62c6114638cac2/</link>
+<title><![CDATA[Forte temporal alaga Rodovia dos Imigrantes e causa transtornos em São Paulo]]></title>
+<link>https://evwbr.github.io/sp/p/sp_c1fd5ae9cc44d026e21a2515d0eaaabf67fd4717/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 08 Mar 2026 20:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Mar 2026 21:02:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:e770848fbb36e561f1821cf0db62c6114638cac2]]></guid>
-<description><![CDATA[Clientes das distribuidoras da CPFL Energia já podem optar pelo PIX Automático para pagar suas contas de energia, garantindo mais autonomia e praticidade.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:c1fd5ae9cc44d026e21a2515d0eaaabf67fd4717]]></guid>
+<description><![CDATA[Um forte temporal na tarde deste domingo (8) provocou alagamentos e veículos ilhados em diversos pontos da capital paulista, especialmente na Rodovia dos Imigrantes, na zona sul.]]></description>
 <content:encoded><![CDATA[
-<p>Clientes das distribuidoras da CPFL Energia já podem optar pelo PIX Automático para pagar suas contas de energia, garantindo mais autonomia e praticidade. O PIX Automático, lançado pelo Banco Central, permite que clientes de qualquer banco façam pagamentos recorrentes de forma automática, diferente do débito automático tradicional que depende de convênios bilaterais. A modalidade oferece controle centralizado, transparência e facilidade no gerenciamento dos débitos.</p>
-<p>Para aderir ao serviço, o cliente deve acessar o site ou aplicativo da CPFL, informar seus dados bancários e autorizar a recorrência uma única vez no aplicativo do banco. As próximas contas serão debitadas automaticamente na data de vencimento, com possibilidade de consultar histórico e cancelar a autorização a qualquer momento.</p>
-<p>A CPFL Energia iniciou a substituição gradual do débito automático pelo PIX Automático, não aceitando novos cadastros para o débito automático desde fevereiro. A migração dos clientes atuais será realizada ao longo de 2026, com comunicação e orientações para garantir um processo transparente e sem interrupções.</p>
-<p>O serviço é gratuito e utiliza a estrutura segura do PIX, proporcionando uma evolução no pagamento das contas de energia para os clientes da CPFL.</p>
+<p>Um forte temporal na tarde deste domingo (8) provocou alagamentos e veículos ilhados em diversos pontos da capital paulista, especialmente na Rodovia dos Imigrantes, na zona sul. O temporal intenso atingiu a região metropolitana de São Paulo, causando o transbordamento de córregos nas zonas sul e leste, o que resultou em vias alagadas e carros ilhados em bairros como Vila Olímpia e Moema. A Rodovia dos Imigrantes, na altura do São Paulo Expo, ficou parcialmente alagada, prejudicando o tráfego na região.</p>
+<p>As áreas do Ipiranga e Vila Prudente permanecem sob atenção devido ao extravasamento de córregos. O Centro de Gerenciamento de Emergências acompanha a situação para evitar maiores transtornos.</p>
+<p>A previsão para esta segunda-feira (9) indica a continuidade do tempo úmido e chuvoso na Grande São Paulo, com ventos úmidos do mar e instabilidades do interior do estado. A temperatura máxima deve apresentar uma leve queda.</p>
+<p>Motoristas devem redobrar a atenção nas vias da capital devido às condições climáticas adversas e possíveis alagamentos.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
