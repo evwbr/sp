@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Fri, 20 Mar 2026 15:25:39 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 17:29:16 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Nova regra do frete com fiscalização automática entra em vigor e surpreende caminhoneiros no Brasil]]></title>
-<link>https://evwbr.github.io/sp/p/sp_7e5a8ec5752782af2313f40ff7d527972cfec769/</link>
+<title><![CDATA[Ibama reforça fiscalização e proíbe pesca de camarão até o fim de abril]]></title>
+<link>https://evwbr.github.io/sp/p/sp_ae46fbfd32d56249d02ba810129fff8cf5ffb4ea/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 20 Mar 2026 14:50:00 GMT</pubDate>
+<pubDate>Fri, 20 Mar 2026 16:33:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:7e5a8ec5752782af2313f40ff7d527972cfec769]]></guid>
-<description><![CDATA[A Medida Provisória 1.343/2026 estabelece a obrigatoriedade do Código Identificador da Operação de Transporte (CIOT) para o transporte rodoviário de cargas, com fiscalização em tempo real em todo o país.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:ae46fbfd32d56249d02ba810129fff8cf5ffb4ea]]></guid>
+<description><![CDATA[O Ibama intensificou a fiscalização da pesca durante o período de defeso do camarão, que ocorre entre o fim de janeiro e abril, para garantir a reprodução das espécies e a sustentabilidade da atividade.]]></description>
 <content:encoded><![CDATA[
-<p>A Medida Provisória 1.343/2026 estabelece a obrigatoriedade do Código Identificador da Operação de Transporte (CIOT) para o transporte rodoviário de cargas, com fiscalização em tempo real em todo o país.</p>
-<p>A partir desta semana, o transporte rodoviário de cargas no Brasil passa a operar sob novas regras com a publicação da Medida Provisória 1.343/2026. A norma institui a obrigatoriedade do CIOT, que vincula a realização do frete ao cumprimento do piso mínimo estabelecido para a categoria. O código deve ser emitido antes do início do serviço, e sem ele a operação não poderá ser realizada, impedindo fretes irregulares.</p>
-<p>O CIOT está integrado ao Manifesto Eletrônico de Documentos Fiscais, permitindo fiscalização automática e em tempo real em todo o território nacional. A Agência Nacional de Transportes Terrestres terá acesso a informações detalhadas de cada transporte, como contratante, transportador, tipo de carga, origem, destino, valor pago e piso mínimo aplicável.</p>
-<p>A MP endurece as penalidades para descumprimento das regras, com multa de R$ 10,5 mil por operação não registrada. Contratantes que pagarem abaixo do piso mínimo reiteradamente podem ter o Registro Nacional do Transportador Rodoviário de Cargas suspenso ou cancelado, com impedimento de atuação por até dois anos. Empresas flagradas podem ser multadas entre R$ 1 milhão e R$ 10 milhões por operação irregular, e sócios e grupos econômicos podem ser responsabilizados em casos de fraude.</p>
-<p>A responsabilidade pela emissão do CIOT cabe ao contratante quando o serviço for executado por transportador autônomo, e à empresa de transporte contratada nos demais casos. A medida entra em vigor em um momento de instabilidade no setor, com ameaças de paralisação devido à alta do diesel, mas busca atender a uma demanda antiga da categoria para combater o frete abaixo do piso mínimo.</p>
-<p>A expectativa é que o novo sistema traga mais previsibilidade e equilíbrio ao mercado de transporte rodoviário de cargas, dependendo da eficácia da fiscalização e da adaptação dos envolvidos às novas regras.</p>
+<p>O Ibama intensificou a fiscalização da pesca durante o período de defeso do camarão, que ocorre entre o fim de janeiro e abril, para garantir a reprodução das espécies e a sustentabilidade da atividade.</p>
+<p>Durante o defeso, a captura de camarão é proibida para proteger a fase de reprodução das espécies. A fiscalização faz parte da Operação Decapoda, realizada em estados como Rio de Janeiro, São Paulo, Paraná, Santa Catarina e Rio Grande do Sul. O uso de redes de arrasto de fundo, que capturam grandes quantidades e prejudicam os camarões em reprodução, está proibido mesmo quando a pesca tem outro alvo, como a lula.</p>
+<p>Desde o início da operação, mais de três toneladas de camarão foram apreendidas por pesca irregular. O pescado apreendido em condições adequadas foi doado a instituições sem fins lucrativos, conforme a legislação. O Ibama alerta que a pesca durante o defeso pode resultar em multas e ser considerada crime ambiental, além de prejudicar o equilíbrio dos ecossistemas marinhos e os pescadores que atuam legalmente.</p>
+<p>Respeitar o período de defeso é fundamental para garantir a reprodução dos camarões e a continuidade da atividade pesqueira de forma sustentável, beneficiando o meio ambiente e os próprios pescadores.</p>
+<p>O Ibama reforça que as regras do defeso valem para todos e destaca a importância da preservação das espécies para o futuro da pesca.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
