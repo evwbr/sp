@@ -8,21 +8,21 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Sat, 21 Mar 2026 00:27:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Mar 2026 03:25:48 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Suspeito de feminicídio em Salto é preso em Praia Grande após dois dias]]></title>
-<link>https://evwbr.github.io/sp/p/sp_762bb50260c492df46f59022da25182205f63890/</link>
+<title><![CDATA[Pesquisa elimina câncer de pâncreas em ratos, mas aplicação em humanos ainda é incerta]]></title>
+<link>https://evwbr.github.io/sp/p/sp_9003073ec60b48d692a615f7447b9f27d583a485/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 20 Mar 2026 23:45:00 GMT</pubDate>
+<pubDate>Sat, 21 Mar 2026 03:14:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:762bb50260c492df46f59022da25182205f63890]]></guid>
-<description><![CDATA[Um homem de 45 anos foi preso em Praia Grande, no litoral paulista, suspeito de feminicídio ocorrido em Salto dois dias antes da prisão.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:9003073ec60b48d692a615f7447b9f27d583a485]]></guid>
+<description><![CDATA[Estudo liderado por pesquisador espanhol mostra eliminação completa do câncer pancreático em roedores, mas desafios para uso clínico em humanos permanecem.]]></description>
 <content:encoded><![CDATA[
-<p>Um homem de 45 anos foi preso em Praia Grande, no litoral paulista, suspeito de feminicídio ocorrido em Salto dois dias antes da prisão. A prisão ocorreu na tarde de quinta-feira, 19 de março, após investigações do 1º Distrito Policial de Praia Grande, que monitorava o paradeiro do suspeito. Denúncias e relatos de moradores indicaram sua presença na região da Vila Caiçara, onde foi abordado em via pública sem oferecer resistência.</p>
-<p>O crime aconteceu na manhã do dia 17, quando a vítima foi encontrada morta dentro de casa com ferimentos causados por objeto perfurocortante. Uma faca de cozinha foi apreendida para perícia. Não havia sinais de arrombamento, e testemunhas relataram histórico de violência doméstica no relacionamento.</p>
-<p>Com mandado de prisão temporária expedido pela Justiça no mesmo dia do crime, as buscas pelo suspeito foram intensificadas até sua localização. Ele foi levado à delegacia, onde permanece à disposição da Justiça, e um telefone celular foi apreendido.</p>
-<p>As investigações continuam sob responsabilidade da Delegacia de Salto, com atuação integrada entre as equipes do litoral e do interior paulista. A ação conjunta entre as delegacias reforça o combate à violência doméstica e a busca por justiça no caso.</p>
+<p>Estudo liderado por pesquisador espanhol mostra eliminação completa do câncer pancreático em roedores, mas desafios para uso clínico em humanos permanecem. O câncer de pâncreas foi totalmente eliminado em ratos por meio de uma abordagem que bloqueia três vias centrais para a sobrevivência das células tumorais: KRAS, EGFR e STAT3. O estudo, conduzido pelo pesquisador Mariano Barbacid no Centro Nacional de Investigaciones Oncológicas, em Madri, representa um avanço inédito na pesquisa oncológica, especialmente por se tratar de um tumor agressivo com baixa resposta aos tratamentos atuais.</p>
+<p>Apesar do resultado promissor, existem obstáculos significativos para a aplicação clínica em humanos. A dosagem dos medicamentos utilizados nos experimentos em roedores foi muito superior àquela empregada em ensaios clínicos humanos, levantando preocupações sobre toxicidade e efeitos colaterais. Um dos fármacos está ainda em fase experimental, e o bloqueio completo da proteína STAT3 pode afetar funções vitais no organismo humano.</p>
+<p>O estudo não garante uma cura imediata para o câncer de pâncreas, mas oferece direções importantes para futuras pesquisas. O desafio é desenvolver combinações terapêuticas que sejam eficazes e seguras para pacientes, com doses adequadas e perfis farmacológicos compatíveis com o uso clínico. O processo para transformar a descoberta experimental em tratamento humano seguro ainda é longo e requer rigorosos testes.</p>
+<p>O avanço reacende o debate sobre novas terapias oncológicas, destacando a necessidade de cautela e de desenvolvimento cuidadoso antes da aplicação em humanos.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
