@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Wed, 25 Mar 2026 02:29:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Mar 2026 09:25:37 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[São Paulo inicia campanha de vacinação contra a gripe com Dia D neste sábado]]></title>
-<link>https://evwbr.github.io/sp/p/sp_d99d4f1ce54164f30767781e773f7cc81d5ac5c3/</link>
+<title><![CDATA[Nenhuma região do Brasil cumpre limite da OMS para qualidade do ar em 2025]]></title>
+<link>https://evwbr.github.io/sp/p/sp_99f464ffb1bcb6cfc417bcdf8d3a07967b3c01a5/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 25 Mar 2026 01:39:53 GMT</pubDate>
+<pubDate>Wed, 25 Mar 2026 07:52:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:d99d4f1ce54164f30767781e773f7cc81d5ac5c3]]></guid>
-<description><![CDATA[O estado de São Paulo começa neste sábado (28) a campanha de vacinação contra a gripe, com foco inicial em idosos, crianças e gestantes, buscando imunizar 90% do público-alvo até 30 de maio.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:99f464ffb1bcb6cfc417bcdf8d3a07967b3c01a5]]></guid>
+<description><![CDATA[Relatório global revela que apenas 13 países mantiveram o ar dentro dos padrões seguros da Organização Mundial da Saúde, enquanto todas as regiões brasileiras apresentam níveis de poluição acima do recomendado.]]></description>
 <content:encoded><![CDATA[
-<p>O estado de São Paulo começa neste sábado (28) a campanha de vacinação contra a gripe, com foco inicial em idosos, crianças e gestantes, buscando imunizar 90% do público-alvo até 30 de maio.</p>
-<p>A campanha terá início com o Dia D, uma mobilização nas Unidades Básicas de Saúde (UBSs) para ampliar o acesso à vacina e incentivar a atualização da caderneta de vacinação. Cerca de 3 milhões de doses já foram distribuídas para os 645 municípios paulistas, permitindo o início simultâneo da vacinação em todo o estado.</p>
-<p>Nesta primeira fase, a imunização será destinada a idosos com 60 anos ou mais, crianças de 6 meses a menores de 6 anos e gestantes. A inclusão dos demais grupos prioritários ocorrerá de forma escalonada, conforme a disponibilidade de doses. O público-alvo total é estimado em 18,8 milhões de pessoas.</p>
-<p>O estado enfrenta um cenário preocupante com milhares de casos de Síndrome Respiratória Aguda Grave (SRAG) relacionados à influenza e centenas de mortes em 2026, o que reforça a importância da vacinação para evitar agravamentos, especialmente entre os grupos mais vulneráveis.</p>
-<p>Além dos grupos iniciais, a campanha contempla profissionais da saúde, professores, povos indígenas e quilombolas, pessoas com doenças crônicas, trabalhadores de transporte, segurança, forças armadas, população em situação de rua, pessoas privadas de liberdade e funcionários do sistema prisional, entre outros.</p>
-<p>A recomendação é que o público elegível procure a UBS mais próxima, levando documento de identificação e, se possível, a carteira de vacinação. A vacina é atualizada anualmente para acompanhar as variantes do vírus influenza, contribuindo para a proteção individual e a redução da sobrecarga nos serviços de saúde.</p>
+<p>Relatório global revela que apenas 13 países mantiveram o ar dentro dos padrões seguros da Organização Mundial da Saúde, enquanto todas as regiões brasileiras apresentam níveis de poluição acima do recomendado.</p>
+<p>O Relatório Mundial de Qualidade do Ar de 2025, elaborado pela empresa suíça IQAir, aponta que apenas 13 países e territórios no mundo conseguiram manter a qualidade do ar dentro dos limites seguros definidos pela Organização Mundial da Saúde (OMS). O estudo analisou mais de 9.000 cidades em 143 países e identificou que a poluição atmosférica está se agravando globalmente, impulsionada pelas mudanças climáticas, queimadas florestais e uso de combustíveis fósseis.</p>
+<p>No Brasil, os dados consolidados do Painel Vigiar de 2023 indicam que nenhuma região do país respira ar dentro do padrão seguro da OMS, que estabelece o limite de até 5 microgramas por metro cúbico de partículas finas no ar. A média nacional foi de 9,9 microgramas, com a região Norte apresentando o pior índice, de 15,1 microgramas, devido ao desmatamento e queimadas na Amazônia. Grandes centros urbanos também registraram níveis elevados, como São Paulo, com 36,5 microgramas, e Rio de Janeiro, com 13,3 microgramas.</p>
+<p>O relatório destaca ainda a redução do monitoramento global da poluição em 2025, com o encerramento do programa de medição dos Estados Unidos e enfraquecimento dos sistemas de fiscalização em 44 países. A exposição contínua a partículas finas provenientes de escapamentos, indústrias e queimadas é apontada como um dos principais problemas de saúde nas cidades, causando doenças como asma, infartos e câncer.</p>
+<p>A qualidade do ar no Brasil e no mundo permanece como um desafio urgente, exigindo esforços coordenados para reduzir a poluição e ampliar o monitoramento ambiental.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
