@@ -8,22 +8,23 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Cobertura de São Paulo com hard news (polícia/ocorrências) e alertas de alto impacto (últimas 24h).</description>
-<lastBuildDate>Sun, 26 Apr 2026 05:25:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Apr 2026 07:25:59 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Domingo em São Paulo terá sol, pancadas de chuva e risco de ventos]]></title>
-<link>https://evwbr.github.io/sp/p/sp_8dedec11bf6d0ae6d85f8b00c46b64d0100092e4/</link>
+<title><![CDATA[Estudo aponta que aumento de obras públicas em ano eleitoral eleva chances de reeleição em capitais brasileiras]]></title>
+<link>https://evwbr.github.io/sp/p/sp_e8deb9df8f4b84dc754a27327f51e724a56d9aeb/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 26 Apr 2026 04:47:00 GMT</pubDate>
+<pubDate>Mon, 27 Apr 2026 02:18:00 GMT</pubDate>
 <category><![CDATA[SP - São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[sp:8dedec11bf6d0ae6d85f8b00c46b64d0100092e4]]></guid>
-<description><![CDATA[A aproximação de uma frente fria provoca instabilidade no tempo em São Paulo neste domingo, com sol entre nuvens e possibilidade de chuvas acompanhadas de ventos e raios, principalmente no interior do estado.]]></description>
+<guid isPermaLink="false"><![CDATA[sp:e8deb9df8f4b84dc754a27327f51e724a56d9aeb]]></guid>
+<description><![CDATA[Análise de 78 ciclos eleitorais em 26 capitais brasileiras revela que o incremento de investimentos em infraestrutura no ano eleitoral está associado à manutenção do grupo político no poder em 64% dos casos.]]></description>
 <content:encoded><![CDATA[
-<p>A aproximação de uma frente fria provoca instabilidade no tempo em São Paulo neste domingo, com sol entre nuvens e possibilidade de chuvas acompanhadas de ventos e raios, principalmente no interior do estado.</p>
-<p>O dia começa com sol entre algumas nuvens em grande parte do estado, mantendo o clima abafado nas primeiras horas. Ao longo do domingo, a frente fria que avança pelo oceano favorece a formação de pancadas de chuva isoladas, que podem vir acompanhadas de rajadas de vento e descargas elétricas, especialmente nas regiões próximas à divisa com o Paraná.</p>
-<p>Os modelos meteorológicos indicam acumulados moderados de chuva em algumas áreas, o que pode causar transtornos em locais mais vulneráveis. Nas demais regiões, a precipitação deve ser isolada e de menor intensidade.</p>
-<p>Na capital paulista, as temperaturas devem variar entre 19°C e 32°C. Em Rio Claro, a mínima prevista é de 20°C e a máxima de 30°C. Diante da instabilidade, é recomendado evitar áreas de risco durante temporais, acompanhar os alertas meteorológicos e manter atenção às possíveis rajadas de vento.</p>
-<p>A população deve permanecer atenta às condições do tempo e seguir as orientações para evitar riscos durante o período de instabilidade causado pela frente fria.</p>
+<p>Análise de 78 ciclos eleitorais em 26 capitais brasileiras revela que o incremento de investimentos em infraestrutura no ano eleitoral está associado à manutenção do grupo político no poder em 64% dos casos.</p>
+<p>Pesquisa desenvolvida no Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP), em Brasília, examinou dados oficiais do SICONFI e do Tribunal Superior Eleitoral referentes aos pleitos de 2016, 2020 e 2024. O estudo focou nas despesas liquidadas, que refletem a execução real das obras, para avaliar se o aumento dos investimentos em infraestrutura influencia o sucesso eleitoral de prefeitos e seus grupos políticos.</p>
+<p>Os resultados indicam que em 68% dos ciclos eleitorais houve aumento dos investimentos em obras públicas no ano da eleição. Quando isso ocorreu, o incumbente foi reeleito ou conseguiu eleger seu sucessor em 64% das disputas, evidenciando uma forte associação entre o investimento visível e o desempenho eleitoral.</p>
+<p>Além disso, em 82,7% dos ciclos analisados, o investimento em infraestrutura caiu significativamente no ano seguinte ao pleito, caracterizando um ciclo político-orçamentário em que os recursos são concentrados antes da eleição e reduzidos após o encerramento da disputa.</p>
+<p>O estudo ressalta que, apesar da correlação, a estratégia não garante vitória em todos os casos, pois fatores como crise econômica, desgaste político, escândalos ou alta competitividade eleitoral podem neutralizar os efeitos positivos das obras. A pesquisa também destaca diferenças regionais, com maior impacto das obras sobre o resultado eleitoral nas capitais do Nordeste.</p>
+<p>A análise reforça que o uso de investimentos em infraestrutura como ferramenta eleitoral está relacionado ao grau de maturidade institucional e ao acesso à informação da população, diferenciando o Brasil de países desenvolvidos onde estratégias eleitorais tendem a focar em políticas fiscais.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
