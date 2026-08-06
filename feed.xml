@@ -9,24 +9,25 @@
 <atom:link href="https://evwbr.github.io/sp/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sp/</link>
 <description>Notícias de São Paulo (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Thu, 06 Aug 2026 17:07:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 21:07:42 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Comediante Fabiano Cambota apresenta espetáculo sobre envelhecimento em São Paulo]]></title>
-<link>https://evwbr.github.io/sp/p/spmulti_710e3707dcb7a3acde904d0a7b52568f094eb7ee/</link>
+<title><![CDATA[Defesa Civil alerta para ventos de até 100 km/h e chuvas intensas em São Paulo com chegada de ciclone bomba]]></title>
+<link>https://evwbr.github.io/sp/p/spmulti_f8f342f5befa385c40f23eceb18e40c799b45e33/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 06 Aug 2026 09:00:00 GMT</pubDate>
+<pubDate>Thu, 06 Aug 2026 16:56:00 GMT</pubDate>
 <category><![CDATA[São Paulo]]></category>
-<guid isPermaLink="false"><![CDATA[spmulti:710e3707dcb7a3acde904d0a7b52568f094eb7ee]]></guid>
-<description><![CDATA[O comediante Fabiano Cambota traz a São Paulo um espetáculo que aborda o envelhecimento com humor e promete divertir o público com reflexões sobre suas transformações e limites.]]></description>
-<enclosure url="https://evwbr.github.io/sp/img/spmulti_710e3707dcb7a3acde904d0a7b52568f094eb7ee.webp" type="image/webp"/>
-<media:content url="https://evwbr.github.io/sp/img/spmulti_710e3707dcb7a3acde904d0a7b52568f094eb7ee.webp" medium="image" type="image/webp"/>
-<media:thumbnail url="https://evwbr.github.io/sp/img/spmulti_710e3707dcb7a3acde904d0a7b52568f094eb7ee.webp"/>
+<guid isPermaLink="false"><![CDATA[spmulti:f8f342f5befa385c40f23eceb18e40c799b45e33]]></guid>
+<description><![CDATA[Atualização de São Paulo.]]></description>
+<enclosure url="https://evwbr.github.io/sp/img/spmulti_f8f342f5befa385c40f23eceb18e40c799b45e33.webp" type="image/webp"/>
+<media:content url="https://evwbr.github.io/sp/img/spmulti_f8f342f5befa385c40f23eceb18e40c799b45e33.webp" medium="image" type="image/webp"/>
+<media:thumbnail url="https://evwbr.github.io/sp/img/spmulti_f8f342f5befa385c40f23eceb18e40c799b45e33.webp"/>
 <content:encoded><![CDATA[
-<p>O comediante Fabiano Cambota traz a São Paulo um espetáculo que aborda o envelhecimento com humor e promete divertir o público com reflexões sobre suas transformações e limites.</p>
-<p>O espetáculo oferece uma experiência que combina risadas e reflexão, abordando temas universais que envolvem o processo de envelhecer e suas consequências no dia a dia.</p>
-<p>Os ingressos para a apresentação estão disponíveis na plataforma Sympla, com valores que variam entre R$ 30,00 (promocional com 1kg de alimento), R$ 40,00 (inteira) e R$ 80,00 (meia-entrada).</p>
-<p>A iniciativa busca atrair um público interessado em entretenimento que une humor e temas relevantes, proporcionando uma noite agradável e descontraída para os espectadores.</p>
+<p>O Centro de Gerenciamento de Emergências prevê ventos intensos de até 100 km/h entre sexta-feira e sábado, acompanhados de chuvas moderadas, com a chegada de um ciclone extratropical bomba na região Sul do Brasil. O alerta vermelho abrange o litoral paulista, a faixa leste e regiões de serra do estado.</p>
+<p>No domingo, a previsão indica alerta amarelo, com as rajadas de vento se deslocando gradualmente para o Rio de Janeiro. Entre esta quarta-feira e domingo, o acumulado de chuva pode chegar a 40 milímetros, com maior incidência na faixa sul e na região de Sorocaba.</p>
+<p>A Defesa Civil alerta para os riscos causados pela ventania, como queda de árvores, destelhamento, interrupção no fornecimento de energia, queda de placas e outdoors, desabamento de estruturas, dificuldades no trânsito, impactos em aeroportos e agitação marítima. As chuvas podem provocar alagamentos, enxurradas, deslizamentos de terra e transbordamento de córregos.</p>
+<p>Além disso, o vento forte pode aumentar o risco de incêndios no estado, especialmente no sábado. A Defesa Civil monitora a situação e emitirá alertas para as regiões com maior risco, destacando as faixas norte e noroeste do estado.</p>
+<p>A população é orientada a evitar ficar próxima a árvores, fios, postes, toldos e placas, além de ter cuidado ao dirigir. Quem estiver no litoral paulista deve evitar locais abertos, entrar no mar e utilizar transporte marítimo. Em casos de emergência, o atendimento pode ser solicitado pelos telefones 199, da Defesa Civil, e 193, do Corpo de Bombeiros.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
