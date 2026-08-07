@@ -566,5 +566,29 @@
     "pageUrl": "https://evwbr.github.io/sp/p/spmulti_4caddb1362bb750b61b8f4363a0a6597e1a27bf5/",
     "usedAt": 1786064767338,
     "usedAtIso": "2026-08-07T01:06:07.338Z"
+  },
+  "source:33c05fa9787c8ff73ab6a27c22f756eba74c36b5": {
+    "url": "https://bs9.com.br/coluna/esportes/2026/08/07/time-pg-de-futsal-feminino-adulto-encara-lider-sao-jose-pelo-paulista.html",
+    "title": "Time PG enfrenta líder São José pelo Campeonato paulista de futsal feminino",
+    "guid": "spmulti:09b7e6f99e8dbfd0ef2aca9bfafafc3111c46229",
+    "pageUrl": "https://evwbr.github.io/sp/p/spmulti_09b7e6f99e8dbfd0ef2aca9bfafafc3111c46229/",
+    "usedAt": 1786107967057,
+    "usedAtIso": "2026-08-07T13:06:07.057Z"
+  },
+  "source:1f8c17c056a77c31b12feffed10fd92f415f7bc8": {
+    "url": "https://bs9.com.br/variedades/2026/08/07/o-bebe-de-rosemary-restaurado-no-vil-cine-clube.html",
+    "title": "Vil Cine Clube exibe filme nacional de horror com bate-papo e coffee break em Santos",
+    "guid": "spmulti:e07b4ad7d66a04db6a55e0935b28d716c0f275d3",
+    "pageUrl": "https://evwbr.github.io/sp/p/spmulti_e07b4ad7d66a04db6a55e0935b28d716c0f275d3/",
+    "usedAt": 1786107967057,
+    "usedAtIso": "2026-08-07T13:06:07.057Z"
+  },
+  "source:f21cfadacf489c5b415866988e39eb7b1fa2b8ad": {
+    "url": "https://bs9.com.br/brasil/2026/08/07/lei-maria-da-penha-completa-20-anos-entre-avancos-e-desafios.html",
+    "title": "Lei Maria da Penha enfrenta desafios na proteção contra violência doméstica em São Paulo",
+    "guid": "spmulti:9cbcc69fd40b0568547df04240c7f6c245852bd2",
+    "pageUrl": "https://evwbr.github.io/sp/p/spmulti_9cbcc69fd40b0568547df04240c7f6c245852bd2/",
+    "usedAt": 1786107967057,
+    "usedAtIso": "2026-08-07T13:06:07.057Z"
   }
 }
