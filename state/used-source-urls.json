@@ -646,5 +646,29 @@
     "pageUrl": "https://evwbr.github.io/sp/p/spmulti_0cb189338200588de1fceac1fffc3afb10aff3d8/",
     "usedAt": 1786172768426,
     "usedAtIso": "2026-08-08T07:06:08.426Z"
+  },
+  "source:1c5d78f9552e29b7affaeabab8694f10c86ce037": {
+    "url": "https://bs9.com.br/coluna/esportes/2026/08/08/atletas-de-guaruja-conquistam-32-medalhas-em-competicao-de-jiu-jitsu-em-sp.html",
+    "title": "Guarujá Jiu-Jitsu conquista título na categoria Kids e é vice-campeã geral em campeonato nacional",
+    "guid": "spmulti:8dd1a983483e2fb21cff476ad435b8eba980fbe4",
+    "pageUrl": "https://evwbr.github.io/sp/p/spmulti_8dd1a983483e2fb21cff476ad435b8eba980fbe4/",
+    "usedAt": 1786194366899,
+    "usedAtIso": "2026-08-08T13:06:06.899Z"
+  },
+  "source:ca2d4ff0269aed31d9d2803fc0100438270f6822": {
+    "url": "https://bs9.com.br/litoral/2026/08/08/sao-vicente-abre-80-vagas-para-curso-de-programacao-em-inteligencia-artificial-generativa.html",
+    "title": "Curso gratuito capacita para desenvolvimento de software com inteligência artificial em São Vicente",
+    "guid": "spmulti:717f7d501c0c03ed858bb9b9489621c020e00ca4",
+    "pageUrl": "https://evwbr.github.io/sp/p/spmulti_717f7d501c0c03ed858bb9b9489621c020e00ca4/",
+    "usedAt": 1786201566691,
+    "usedAtIso": "2026-08-08T15:06:06.691Z"
+  },
+  "source:fc7bc3a6276e45418c0b84aa663111812dde063e": {
+    "url": "https://bs9.com.br/brasil/2026/08/07/retiradas-da-poupanca-superam-depositos-em-r-715-bilhoes-em-julho.html",
+    "title": "Poupança registra saída líquida de R$ 237,5 milhões em julho, com queda nos depósitos",
+    "guid": "spmulti:646c3eca243832ad52a536f43fc68dadb0936694",
+    "pageUrl": "https://evwbr.github.io/sp/p/spmulti_646c3eca243832ad52a536f43fc68dadb0936694/",
+    "usedAt": 1786201566691,
+    "usedAtIso": "2026-08-08T15:06:06.691Z"
   }
 }
